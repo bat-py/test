@@ -1,0 +1,16 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.alert_danger {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    min-width: 200px;
+    max-width: 100%;
+    padding: 19px 40px;
+    text-align: center;
+    background: #D43F32;
+    box-shadow: 0px 0px 40px rgba(212, 63, 50, 0.35);
+    border-radius: 8px;
+    color: white;
+    opacity: 0.9;
+}

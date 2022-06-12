@@ -1,0 +1,52 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.footer {
+  padding: 60px 0 40px;
+  border-top: 1px solid rgba(103, 116, 129, 0.25);
+  display: flex;
+  justify-content: space-between;
+  flex: 0 0 auto;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  max-width: 340px;
+}
+
+.text {
+  font-size: 14px;
+  line-height: 19px;
+  color: $dark-gray;
+  font-weight: 500;
+
+  & + & {
+    margin-top: 8px;
+  }
+
+  &--small {
+    font-size: 12px;
+    line-height: 16px;
+  }
+}
+
+.title {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.logo-block {
+  text-transform: uppercase;
+}
+
+.logo {
+  margin-bottom: 14px;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    padding-bottom: 120px;
+  }
+}

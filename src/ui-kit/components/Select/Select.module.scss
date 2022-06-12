@@ -1,0 +1,62 @@
+@use "../../scss/variables.scss" as *;
+@use "sass:color";
+
+.wrapper {
+  position: relative;
+}
+
+.selector {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  background-color: $black-element-bg;
+  border-radius: 8px;
+  padding: 14px;
+
+  color: $dark-gray;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  cursor: pointer;
+  user-select: none;
+
+  &__arrow {
+    width: 20px;
+    height: 20px;
+  }
+
+  &--active {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  &--selected {
+    color: #fff;
+  }
+}
+
+.options {
+  position: absolute;
+  z-index: 5;
+  left: 0;
+
+  width: 100%;
+  background-color: $black-element-bg;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.option {
+  transition: background-color ease-in 0.1s;
+  cursor: pointer;
+  padding: 14px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+
+  &:hover {
+    background-color: $black-element-bg-hover;
+  }
+}

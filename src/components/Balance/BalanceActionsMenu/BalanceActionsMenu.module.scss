@@ -1,0 +1,30 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+.wrapper {
+  position: relative;
+}
+
+.icon {
+  &--active {
+    & > circle {
+      fill: $gold;
+    }
+  }
+}
+
+.menu {
+  position: absolute;
+  z-index: 10;
+  top: 20px;
+  left: -80px;
+  display: flex;
+  flex-direction: column;
+  background-color: $black-bg;
+  padding: 16px;
+  border-radius: 8px;
+
+  &__item {
+    & + & {
+      margin-top: 16px;
+    }
+  }
+}

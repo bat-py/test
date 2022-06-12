@@ -1,0 +1,43 @@
+.mobile-element {
+  &--block,
+  &--flex,
+  &--inline {
+    display: none;
+  }
+
+  @media (max-width: 768px) {
+    &--block {
+      display: block;
+    }
+
+    &--flex {
+      display: flex;
+    }
+
+    &--inline {
+      display: inline;
+    }
+  }
+}
+
+.desktop-element {
+  &--block {
+    display: block;
+  }
+
+  &--flex {
+    display: flex;
+  }
+
+  &--inline {
+    display: inline;
+  }
+
+  @media (max-width: 768px) {
+    &--block,
+    &--flex,
+    &--inline {
+      display: none;
+    }
+  }
+}

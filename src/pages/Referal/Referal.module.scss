@@ -1,0 +1,152 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+@use "../../ui-kit/scss/classes.scss" as *;
+
+.body {
+  margin: 100px 0 60px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 52px;
+}
+
+.referal {
+  &__title {
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 600;
+    margin-bottom: 18px;
+  }
+
+  &__input {
+    display: flex;
+    align-items: center;
+    padding: 12px 14px 12px;
+    font-weight: 500;
+
+    &-text {
+      color: $dark-gray;
+      margin-right: 20px;
+      cursor: default;
+    }
+
+    &-icon {
+      margin-left: 20px;
+      cursor: pointer;
+    }
+  }
+}
+
+.rules {
+  max-width: 954px;
+  padding: 34px 30px;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-bottom: 36px;
+  }
+
+  &__title {
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    line-height: 34px;
+    font-weight: 600;
+  }
+
+  &__subtitle {
+    margin-bottom: 16px;
+  }
+
+  &__text {
+    line-height: 22px;
+
+    &-blocks {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 36px;
+    }
+
+    &-block {
+      max-width: 400px;
+    }
+  }
+
+  &__icon {
+    margin-right: 8px;
+  }
+
+  &__link {
+    font-size: 20px;
+    line-height: 28px;
+
+    &-arrow {
+      margin-left: 4px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin: 44px 0 130px;
+  }
+
+  .title {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 40px;
+  }
+
+  .header {
+    flex-direction: column;
+  }
+
+  .referal {
+    &__title {
+      margin-bottom: 38px;
+    }
+
+    &__input {
+      position: relative;
+      justify-content: space-between;
+    }
+
+    &__input-text {
+      position: absolute;
+      padding-left: 0;
+      top: -20px;
+      left: 0;
+    }
+  }
+
+  .title {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .rules {
+    padding: 21px 18px;
+
+    &__text-blocks {
+      flex-direction: column;
+    }
+
+    &__text-block {
+      width: 100%;
+
+      & + & {
+        margin-top: 16px;
+      }
+    }
+  }
+}

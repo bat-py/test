@@ -1,0 +1,67 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.card {
+  width: 234px;
+  padding: 18px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.token {
+  display: flex;
+  align-items: center;
+  &__logo {
+    width: 24px;
+    height: 24px;
+    margin-right: 4px;
+  }
+
+  &__title {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+  }
+}
+
+.time {
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 500;
+  color: $dark-gray;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+}
+
+.price {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.graph {
+  display: flex;
+  flex-direction: column;
+
+  &__img {
+    width: 167px;
+    height: 100px;
+    align-self: center;
+  }
+
+  &__diff {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: bold;
+  }
+}

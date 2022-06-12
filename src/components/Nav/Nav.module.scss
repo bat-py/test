@@ -1,0 +1,25 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: flex;
+  align-items: center;
+  flex: 1 0 auto;
+  z-index: 1002;
+}
+
+.item {
+  & + & {
+    margin-left: 32px;
+  }
+
+  &__text {
+    transition: color ease-in 0.1s;
+    &:hover {
+      color: $green;
+    }
+  }
+
+  &--active {
+    color: $green;
+  }
+}

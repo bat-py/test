@@ -1,0 +1,409 @@
+main | Главная | Crossceed Finance
+lang | ru | fr
+trade | Торговля | Commerce
+balance | Баланс | Équilibre
+exchange | Обмен | Échange
+history | История | L'histoire
+news | Новости | Actualités
+contact | Контакты | Contact
+profile | Профиль | Profile
+logout | Выйти | Déconnexion
+login | Войти | Connexion
+register | Регистрация | S'inscrire
+email_check_code | Введите код проверки с электронной почты | Entrez votre code de contrôle à partir de l'e-mail
+condition_age | Подтвердите условия и ваш возраст | Confirmer les conditions et votre âge
+wrong_sum | Неправильная сумма | Mauvaise somme
+wrong_balance | Неправильный баланс | Mauvais équilibre
+all_field | Заполните все поля | Remplissez tous les champs
+about_us | О нас | À propos de nous
+products | Продукты | Des produits
+service | Обслуживание | Un service
+support | Поддержка 24/7 | Support 24/7
+mob_support | Поддержка | Support
+submit_request | Отправить запрос | Soumettre une demande
+learn | Изучить | Apprendre
+community | Сообщество | Communauté
+CROSSCEED_FINANCE | Покупайте и продавайте криптовалюту выгодно и безопасно | Acheter et vendre des crypto de manière rentable et en toute sécurité
+CROSSCEED_FINANCE_TEXT | Многопрофильная криптовалютная площадка с ручным и автоматическим функционалом работы одновременно на нескольких криптовалютных биржах в режиме реального времени.умная система мониторинга предотвращает куплю/продажу в убыток. Наш клиент-инвестор всегда в прибыли как и компания. | Une plate-forme multidisciplinaire de crypto-monnaie avec des fonctionnalités manuelles et automatiques en même temps sur plusieurs échanges de crypto-monnaie en temps réel Un système de surveillance intelligent empêche l'achat / la vente à perte. Notre client-investisseur est toujours bénéficiaire de l'entreprise.
+step_1 | 1 шаг | 1 pas
+step_2 | 2 шаг | 2 pas
+step_3 | 3 шаг | 3 pas
+step_4 | 4 шаг | 4 pas
+step_5 | 5 étape | 5 pasg
+step_1_text | Клиент передает на управление<br /> свои финансы агенту | Le client transfère les finances de gestion à l'agent <br />
+step_2_text | Агент выводит наличные<br /> и отсылает агенту в другой стране. | L'agent retire de l'argent <br /> et l'envoie à un agent dans un autre pays.
+step_3_text | Второй агент, где курс ниже,<br /> покупает для клиента криптовалюту,<br /> и передает все компании. | Le deuxième agent, où le taux est plus bas, <br /> achète de la crypto-monnaie pour le client, <br /> et transfère toutes les entreprises.
+step_4_text | Основная сумма и прибыль<br /> переводится на счет клиента. | Le principal et le profit <br /> sont transférés sur le compte du client.
+step_5_text | Завершение<br /> процесса сделки. | Achèvement du processus de transaction <br />.
+mobile | Мобильный | Mobile
+API | API | API
+API_Documentation | Официальная документация API | Documentation officielle de l'API NAME
+registration_closed | Регистрация закрыта | L'inscription est fermée
+for_free | бесплатно | gratuitement
+your_name | Enter your name | Votre nom
+your_email | Ваш Email | Votre email
+email | Email | Email
+sing_name | Имя, используемое для входа | Nom à utiliser pour chanter
+create_password | Создайте пароль | Créer un mot de passe
+create_password_text | Пароль не должен быть менее 6 символов | Le mot de passe doit être au moins de 6 caractères
+confirm_password | Подтвердите пароль | Confirmez le mot de passe
+referral_ID | ID реферала (необязательно) | ID de référence (facultatif)
+terms | Я принимаю Условия использования | J'accepte les termes et conditions
+over_18 | Мне больше 18 лет | J'ai plus de 18 ans
+start_now | Начать! | Créer un compte
+have_account | Already have account? | Déjà inscrit ?
+sign_in | Войти | se connecter
+wrong_password | Неправильный пароль | Mauvais mot de passe
+password_match | Пароли не совпадают | Les mots de passe ne correspondent pas
+enter_email | Введите email | Entrez votre e-mail
+user_exist | Пользователь уже существует | L'utilisateur existe déjà
+registration_completed | Регистрация завершена. Теперь Вы можете войти. | Inscription terminée. Vous pouvez maintenant vous connecter.
+registration_completed_code | Регистрация завершена. Теперь Вы можете войти. | Inscription terminée. Vous pouvez maintenant vous connecter.
+registration_moderation | Регистрация завершена. Вы можете войти после модерации. | Inscription terminée. Vous pouvez vous connecter après modération.
+registration_instruction | Для завершения регистрации следуйте инструкциям: инструкции. | Pour terminer l'inscription, suivez les instructions: instructions.
+your_password | Ваш Пароль | Votre mot de passe
+email_code | Email Код | Code e-mail
+dont_have_account | У Вас нет аккаунта? | Vous n'avez pas de compte?
+sign_up | Войти | S'inscrire
+wrong_login | Не верный логин или пароль | Identifiant ou mot de passe incorrect
+account_blocked | Аккаунт заблокирован | Compte bloqué
+account_moderated | Аккаунт не модерирован | Compte non modéré
+account_deleted | Аккаунт удален администратором | Compte supprimé par l'administrateur
+wrong_code | Не верный код авторизации | Code d'autorisation non valide
+wrong_code_2 | Не верный код | Code invalide
+your_code | Ваш код авторизации | Votre code d'autorisation
+contact_center | Контактный центр | Centre d'appels
+create_help | Мы созданы, чтобы помогать | Nous créons pour aider
+customer_service | Служба поддержки CROSSCEED работает круглосуточно и без выходных, чтобы помочь вам с вашими потребностями <br />. | Le service client NAME est en ligne 24h / 24 et 7j / 7 pour répondre à vos besoins <br />.
+ask_question | Задать вопрос | Poser une question
+send_request | Отправить запрос | Envoyer une demande
+topic_1 | Topic 1 | Sujet 1
+topic_2 | Topic 2 | Sujet 2
+topic_3 | Topic 3 | Sujet 3
+your_question | Ваш вопрос | Ta question
+FAQ | FAQ | FAQ
+our_address | Ваш Адрес | Notre adresse
+address_1 | 7298 East Charles Street | 7298, rue Charles Est
+address_2 | New Lenox, IL 60451 | Nouveau Lenox, IL 60451
+contact_info | Контакты | Informations de contact
+phone_1 | (896) 931-6550 | (896) 931-6550
+phone_2 | (965) 446-9687 | (965) 446-9687
+follow_us | Подпишитесь | Suivez nous
+sended | Отправлено | Envoyé
+choose_currency_sell | Выберите валюту для продажи | Choisissez la devise à vendre
+sum | Сумма | Somme
+choose_currency_buy | Выберите валюту для покупки | Choisissez la devise à acheter
+you_get | Вы получите | Tu auras
+enough_balance | Недостаточный баланс | Pas assez d'équilibre
+exchange_completed | Обмен завершен | Échange terminé
+wallet_history | История платежей | Historique du portefeuille
+date | Дата | Date
+operation | Операция | Opération
+information | Информация | Information
+payment_manual | Все платежи производятся раз в 24 часа по запросу и в ручном режиме. | Tous les paiements sont effectués une fois toutes les 24 heures sur demande et en mode manuel
+status | Состояние | Statut
+complete | Выполненно | Complete
+pending | В ожидании | En attente
+declined | Отклонено | Diminué
+wallet | Кошелек | Portefeuille
+read_more | Читать больше | Lire la suite
+account_verification | Верификация учетной записи | Vérification de compte
+first_name | Имя | Prénom
+second_name | Фамилия | Nom de famille
+patronymic | Отчество | Patronyme
+address | Адрес | Address
+password | Пароль | Mot de passe
+OK | OK | OK
+document_1 | Загрузить 1-ую страницу документа | Charger la 1ère page du document
+document_2 | Загрузить 2-ую страницу документа  | Charger la 2ère page du document
+send | Отправить | Envoyer
+vip_request | Подать заявку на VIP | Appliquer pour VIP
+have_vip_request | У вас уже есть не рассмотренные заявки | Vous avez déjà des demandes en attente
+wrong_format | Неверный формат файла | Format de fichier incorrect
+first_file | Загрузить первый файл | Importer le premier fichier
+uploaded | Загруженно | Téléchargé
+bad_password | Новый пароль не удовлетворяет требованиям | Le nouveau mot de passe ne répond pas aux exigences
+user | Пользователь | Utilisateur
+technical_issue | <p>Technical issue page content</p> | <p> Contenu de la page des problèmes techniques </p>
+subject | Тема | Matière
+close_ticket | Закрыть Тикет | Fermer le ticket
+create | Создать | Créer
+comment | Комментарий | Commentaire
+add | Добавить | Ajouter
+open | Открыто | ouvrir
+closed | Закрыто | fermé
+your_tickets | Ваши Квитанции | Vos billets
+question | Вопрос | Question
+error | Ошибка | Erreur
+another | Другое | Autre
+text | Текст | Texte
+INFO | Инфо | INFO
+refresh | Обновить | Rafraîchir
+replenish | Пополнение | Remplir
+payout | Выплата | Paiement
+replenish_balance | Пополнить баланс | Reconstituer l'équilibre
+choose_wallet | Выберите свой кошелек | Choisissez votre portefeuille
+quantity | Введите количество | Entrez la quantité
+available | Доступно | Disponible
+minimal | Минимум | Minimal
+commision | Комиссия | Commision
+XLM_address | Ваш XLM-адрес | Votre adresse XLM
+memo_ID | Memo ID (необязательно) | ID mémo (facultatif)
+create_request | Создать запрос | Créer une demande
+check_code | Введите код проверки с электронной почты | Entrez votre code de contrôle à partir de l'e-mail
+trade_process | Процесс Торговли | Processus commercial
+start_robot | Старт Робота | Démarrer le robot
+trade_dont | Торговля не работает | Le commerce ne fonctionne pas
+email_code_2 | Для подтверждения введите код из письма | Pour confirmer, entrez le code de la lettre
+volume_24 | Объем торгов за 24 часа | Volume d'échange de 24 heures
+order_amount | Введите сумму заказа | Entrez le montant de la commande
+apply | Применить | Appliquer
+your_balance | Ваш баланс | Votre équilibre
+bid_USD | Bid USD | Enchérir USD
+ask_USD | Ask USD | Demandez USD
+chg_24h | Chg 24h | Chg 24h
+graphs | Графики | Graphiques
+to_processing | Перейти к обработке заказа | Aller au traitement des commandes
+days | Дней | Journées
+number_days | Количество рабочих дней | Nombre de jours ouvrés
+start | Старт | Début
+stop | Стоп | Arrêtez
+arbitrage | Арбитраж | Arbitrage
+server_time | Серверное время | Heure du serveur
+CALCULATION | РАСЧЕТ АРБИТРАЖНОЙ СИСТЕМЫ | CALCUL DU SYSTÈME D'ARBITRAGE
+sale | Продажа | Vente
+volume | Объем | Volume
+price | Цена | Prix
+market_exchange | Рынок (обмен) | Marché (échange)
+beneficiary | Бенефициар | Bénéficiaire
+commission_bid | Комиссия/предложение | Commission / offre
+amount | Количество | Montant
+withdraw | Вывод / обмен (fiat) | Retrait / échange (fiat)
+receipt | Получение | Le reçu
+issuing_bank | Банк-Эмитент | Banque émettrice
+requirements | Не выполнены условия для завершения операции. | Les conditions pour terminer l'opération ne sont pas remplies.
+transit_paysafe | Транзит Paysafe | Transit Paysafe
+purchase | Покупка | achat
+commission_withdraw | Комиссия/Вывод | Commission / retrait
+delta | Дельта | Delta
+distribution | Распределение | Distribution
+counterparty_sale | Контрагент/продажа | Contrepartie / vente
+counterparty_purchase | Контрагент/покупка | Contrepartie / achat
+COMPANY | КОМПАНИЯ | ENTREPRISE
+delta_client | Дельта/Клиент | Delta / Client
+partner | Партнер | Partenaire
+total_transaction | Transaction générale |
+transaction_result | Возврат результата транзакции (включая общую прибыль) | Résultat de la transaction de retour (y compris le bénéfice total)
+confirm | Подтвердите операцию обмена | Confirmer l'opération d'échange
+proliminary | Предварительный | Proliminaire
+online_orders | Онлайн заказы | Commandes en ligne
+no_premilinary | Нет предварительных заказов | Il n'y a pas d'ordres préliminaires
+current_status | Текущий статус | Statut actuel
+transaction_hash | Хэш транзакции | Hachage de transaction
+commission_withdrawal | Комиссия/снятие USD | Commission / retrait USD
+dispatch_volume | Объем отправки | Volume d'expédition
+comission_operator | Оператор комиссии | Opérateur de commission
+no_request | У вас нет заявок на торговлю | Vous n'avez aucune demande d'échange
+detail | Подробнее | Détail
+new | НОВЫЙ | NOUVEAU
+accept | ПРИНЯТ | ACCEPTÉ
+decline | ОТКЛОНЕН | REFUSÉ
+fail | СБОЙ | Échec
+back | Назад | Arrière
+stage_1 | Этап сделки 1 | Étape de transaction 1
+stage_2 | Этап сделки 2 | Étape de transaction 2
+stage_3 | Этап сделки 3 | Étape de transaction 3
+stage_4 | Этап сделки 4 | Étape de transaction 4
+stage_5 | Этап сделки 5 | Étape de transaction 5
+stage_6 | Этап сделки 6 | Étape de transaction 6
+ticket_created | Заявка Созданна | Ticket Created
+ticket_list | Список Заявок | Liste des tickets
+comment_created | Комментарий добавлен | Commentaire ajouté
+ticket_closed | Тикет закрыт | Billet fermé
+ticket | Заявка |Billet
+referral_list | Список рефераллов | Liste de référence
+payment_history | История выплат | Historique des paiements
+request_sended | Заявка подана | Candidature soumise
+trade_limit | Торговый лимит достигнут | Limite commerciale atteinte
+no_profit | Нет прибыли | Aucun profit
+trade_sended | Отправлен торговый запрос | Demande commerciale envoyée
+minimum_refill | Ошибка минимального предела пополнения | Erreur de limite de recharge minimale
+refill_sended | Запрос на пополнение отправлен | Demande de recharge envoyée
+request_done | Заявка уже обработанна | La demande a déjà été traitée.
+request_confirmed | Заявка подтвеждена | Demande confirmée
+payment_destination | Введите назначение оплаты | Entrez la destination du paiement
+autotrade_isset | У вас есть не завершенный автотрейд. | Vous avez un échange automobile incomplet.
+minimum_error | Ошибка минимального лимита выплат | Erreur de limite de paiement minimum
+maximum_error | Ошибка максимального лимита выплат | Erreur de limite de paiement maximum
+payout_request | Заявка на вывод средств | Demande de retrait
+your_code_2 | Ваш код подтверждения | Votre code de vérification
+not_found | Не найден | Pas trouvé
+no_autotrade | Нет запущеных автотрейдов | Aucun échange automatique n'a commencé
+autotrade_completed | Авторобот завершил работу. | Autobot a terminé le travail.
+your_profit | Ваша прибыль | Votre profit
+autotrade_already | Автотрейд уже запущен | Le trading automatique est déjà en cours
+autotrade | Автотрейд | Commerce automobile
+autotrade_start | Авторобот запущен | Lancement d'Autobot
+thank_you | Спасибо за то, что вы с нами! | Merci d'être avec nous!
+copy | Спасибо за то что вы с нами..      CROSSCEED.COM   Inc. Все права защищены. | Merci d'être avec nous .. CROSSCEED.COM Inc. Tous droits réservés.
+trade_executed | Ордер успешно завершен . | Commande terminée avec succès.
+wallet_amount | На ваш кошелек начислено: | Votre portefeuille a accumulé un montant de:
+detailed_history | Больше информации вы можете посмотреть на вашем аккаунте по вкладке меню history | Vous pouvez voir plus d'informations sur votre compte dans l'onglet du menu historique
+trade_complete | Торговля Завершена | Commerce terminé
+min_autotrade | Срок автотрейда меньше минимального | Le temps de trading automatique est inférieur au minimum
+login_confirm | Подтвердите вход на crossceed.com | Confirmer l'entrée sur crossceed.com
+login_confirm_text | На Ваш email было отправленно письмо с кодом для подтверждения входа. | Un e-mail vous a été envoyé avec un code de confirmation.
+dear | Дорогой | Cher
+security_code | код безопасности | code de sécurité
+qtyorder | Количество ордеров | Nombre de commandes
+order_cancelled | Ордер отменен . Причина : Изменение курса на бирже | La commande est annulée. Raison: changement de taux de change
+account_verificated | Ваш акаунт верифицирован. Все ограничения сняты | votre compte est vérifié. Toutes les restrictions supprimées
+payment_order | Ордер на вывод . | Ordonnance de rétractation.
+reg_code | Вы зарегистрировались на платформе crossceed.com. Введите код подтверждения регистрации<br/>Код подтвержения регистрации :  | Vous vous êtes inscrit sur la plateforme crossceed.com. Entrez le code de confirmation d'inscription<br/>Code de confirmation d'inscription:
+reg2 | Спасибо. Регистрация завершена. Аккаунт не верифицирован. Верифицируйте аккаунт для снятия ограничений  | Je vous remercie Inscription terminée. Compte non vérifié. Vérifiez votre compte pour supprimer les restrictions
+reg31 | Ваш аккаунт активирован, но не верифицирован вы можете создавать ордер максимум на | votre compte est activé, mais non vérifié, vous pouvez créer une commande avec un maximum de
+reg32 | верифицируйте свой аккаунт для снятия ограничений | vérifiez votre compte pour supprimer les restrictions
+vacancy_text | Мы ищем замечательных и умных людей, чтобы присоединиться к нашей растущей команде. Мы уже работаем в качественном партнерстве и необходимость в новых кадрах есть по всему миру. Поэтому, наша сеть агентов на криптовалютных рынках и менеджеров по операциям будет расти по мере расширения нашей деятельности. Будем рады видеть вас в команде! | Nous recherchons des personnes merveilleuses et intelligentes pour rejoindre notre équipe grandissante. Nous travaillons déjà dans un partenariat de haute qualité et nous avons besoin de nouveaux collaborateurs partout dans le monde. Par conséquent, notre réseau d'agents du marché des crypto-monnaies et de gestionnaires des opérations se développera à mesure que nos opérations se développeront. Nous serons heureux de vous voir en équipe!
+agree_with  | Я прочитал и согласен | J'ai lu et j'accepte le
+user_agreement | accord d'utilisation | contrat d'utilisation
+and | et | et la
+privacy | politique de confidentialité | politique de confidentialité
+newsletter | recevoir la newsletter | Recevoir la newsletter
+registration_email | Code de confirmation envoyé par e-mail | Code de confirmation envoyé par e-mail
+system_agent | System Agent | System Agent
+stockbroker | Agents d'échange | Agents d'échange
+name | Nom | Nom
+country | Pays | Pays
+city | Ville | Ville
+payment_system | Systèmes de paiement | Systèmes de paiement
+bank | Banque | Banque
+company | Entreprise | Compagnie
+vacancy_list | Liste des emplois | Liste d'emplois
+vacancy_description | Description du poste | Description du poste vacant
+tech_division | Département technique | Département technique
+agent_info | Informations sur les agents d'échange | Informations sur les agents d'échange
+ads | Publicité et promotion | Publicité et promotion
+VIP_accounts | VIP accounts | VIP accounts
+time | Temps | Temps
+time_place | Heure locale | Heure locale
+qty | Quantité | montant
+adelta | Arbitrage Delta | Delta d'arbitrage
+profitability | Rentabilité | Rentabilité
+result | Résultat | Résultat
+sell | Vente | Vente
+buy | Achat | achat
+last_operation | Transactions récentes | Transactions récentes
+loading_start | Commencer le chargement | Commencer le chargement
+structure | Structure | Structure
+autorobot | Autobot | Autobot
+merchant | Marchand | marchande
+global_merchant | commerçant pour les paiements globaux | marchand pour les paiements globaux
+cancel | ANNULER | ANNULER
+autotrade_block | Bloqué pendant la durée de l'échange automatique. | Bloqué pendant la durée de l'échange automatique.
+request_rejected | Demande rejetée | Demande rejetée
+local_time | Heure locale | Heure locale
+link | lien | lien
+referal_program | Programme de référence | Programme de référence
+top_bid | Top bid | Top bid
+lowest_ask | Lowest ask | Lowest ask
+agent_list | Agent List | Agent List
+deposit | Deposit | Deposit
+withdrawal | Withdrawal | Withdrawal
+balance_refill | Le solde a été reconstitué à | Solde reconstitué par
+select_tradee | Sélectionnez Exchange | Sélectionnez Exchange
+trade_active | Vous avez des opérations de trading actives | Vous avez des opérations de trading actives
+commission_agent | Commission d'agent | Commission d'agent
+operation_qty | Nombre de transactions | Montant des offres
+operation_qty_left | Offres restantes | Offres restantes
+min_autotrade_2 | Nombre d'opérations incorrect | Nombre d'opérations incorrect
+isset_balance_exchange | Solde disponible pour échange | Solde de change disponible
+exchange_not_enouth_money | Fonds insuffisants sur le solde de change | Fonds insuffisants sur le solde de change
+exchange_mist | Erreur lors de la détermination du taux de change actuel. Essayez d'essayer un peu plus tard. | Erreur lors de la détermination du taux de change actuel. Essayez d'essayer un peu plus tard.
+enter_amount_for_trade | Vous n'avez pas saisi le montant | Vous n'avez pas saisi le montant
+min_amount_for_trade | Entrez le montant supérieur au minimum | Entrez un montant supérieur au minimum
+history_payment_o1 | Opération d'échange de crypto-monnaie | Opération d'échange de crypto-monnaie
+history_payment_o2 | Réapprovisionnement des dépôts | Réapprovisionnement des dépôts
+history_payment_o4 | Retrait du dépôt | Retrait du dépôt
+history_payment_o5 | Opération commerciale | Opération commerciale
+history_payment_o8 | Erreur sur le fonctionnement du fil, remboursement. | Erreur sur le fonctionnement du fil, remboursement.
+history_payment_o10 | Annulation par autobot. | Annulation par autobot.
+history_payment_o7 | Réapprovisionnement après les travaux de l'autorobot. | Réapprovisionnement après les travaux de l'autorobot.
+history_payment_o22 | Remboursement après l'arrêt de l'autobot. | Remboursement après l'arrêt de l'autobot.
+history_payment_o11 | Récompense de parrainage. | Récompense de parrainage.
+history_payment_o15 | Admission après chirurgie. | Admission après chirurgie.
+history_payment_o23 | Remboursement des commandes en cas de panne de l'autorobot. | Remboursement des commandes en cas de panne de l'autorobot.
+how_work_on_platform | Как работать на платформе | Comment ça fonctionne
+cookie_agreement | Мы используем файлы cookies. Нажмите здесь, чтобы подтвердить свое согласие на использование cookies. | Nous utilisons des cookies. Cliquez ici pour confirmer votre consentement à l'utilisation de cookies.
+cookie_agreement_2 | Ознакомьтесь с нашей политикой конфиденциальности. | Consultez notre politique de confidentialité.
+agree | Согласен | je suis d'accord
+balance_send | Отправьте | Soumettre
+balance_to_this_address | на этот адрес | à cette adresse
+balance_will_update_automatically | Баланс будет обновлен автоматически | Le solde sera mis à jour automatiquement
+history_payment_o24 | Ожидание поступления на депозит | En attente d'un dépôt
+expect_intro_money | Ожидание поступления | Le solde a été rempli avec succès!
+summ_added_to_balance | Баланс успешно пополнен! | Le solde a été rempli avec succès!
+question_created | Вопрос отправлен | Question envoyée
+question_receive | Ваш запрос получен и зарегистрирован под номером | Votre demande a été reçue et enregistrée sous le numéro
+question_we_will_answer | Мы ответим Вам в ближайшее время. | Nous vous répondrons dans les plus brefs délais.
+question_question | Вопрос | Question
+question_support_ans | Ответ по запросу | Réponse sur demande
+question_support_ans_2 | Наш ответ по Вашему запросу | Notre réponse à votre demande
+question_support_your_question_from | Ваш вопрос от | Votre question de
+else_agent | Ещё агенты | Plus d'agents
+pending_sucs | подтверждение | la confirmation
+request_confirmed_link | Ссылка подтверждения. | Lien de confirmation d'opération.
+limit_payout_at_day | Вы уже достигли лимита по количеству выводов в день | Vous avez déjà atteint votre limite de retrait quotidienne
+limit_col_days | Выводить средства можно не раньше чем через {x} дней после пополнения! | Vous pouvez retirer des fonds au plus tôt {x} jours après le dépôt!
+text_develop_app | Приложение находится в разработке. Планируемая дата выхода: 15.10.2020 г. | L'application est en cours de développement. Date de sortie prévue: 15/12/2020
+history_payment_o30 | Ожидание завершения трэйда | Pending trade
+history_payment_o31 | Ожидание завершения трэйда | Pending trade
+new_password | Новый пароль | Nouveau mot de passe
+restore | Восстановить | Restaurer
+restore_password | Забыли пароль? | Vous avez oublié votre mot de passe?
+restore_pswd | Восстановить пароль | Réinitialiser le mot de passe
+remember_the_password | Вспомнили пароль? | Vous avez oublié votre mot de passe?
+wrong_email | Такой email не существует | Cet email n'existe pas
+change_pswd_ok | Ваш пароль изменён | Votre mot de passe a été changé
+restore_code | Вы запросили восстановления пароля на платформе crossceed.com. Введите код подтверждения восстановления Код восстановления пароля регистрации : | Vous avez demandé la récupération du mot de passe sur la plateforme crossceed.com. Entrez le code de confirmation de récupération<br/><br/>Code de récupération du mot de passe d'enregistrement:
+about_menu | О нас | À propos de nous
+partners | Партнёрам | Partenaire
+VIP | VIP | VIP
+VIP_modal_title | Выгодные VIP партнерские программы | Programmes d'affiliation VIP rentables
+VIP_modal_content | Особые VIP клиенты по вашей партнёрской ссылке обсуждаются лично с вами. | Les clients VIP spéciaux utilisant votre lien d'affiliation sont discutés personnellement avec vous
+copy_right | Все права защищены. Crossceed является торговой маркой компании Crossceed Finance LTD | Tous les droits sont réservés. Crossceed est une marque déposée de Crossceed Finan
+suppot_mail | Если у вас возникли, какие-то вопросы по работе сайта, тогда обратитесь в нашу техническую поддержку | Si vous avez des questions ou simplement des problèmes, contactez notre support technique
+ip_mail | IP адрес | Adresse IP
+vip_page_msg1 | VIP - клиентам | vip - clients
+vip_page_msg2 | VIP аккаунт - это кабинет где клиенту предоставляется увеличенное количество ордеров до 7 в день и более короткие промежутки между сделками, а так же увеличенный доход от сделки. | Le compte vip est une armoire où le client reçoit un nombre accru de commandes jusqu'à 7 par jour et des intervalles plus courts entre les transactions, ainsi qu'un revenu accru d'une transaction.
+vip_page_msg3 | Условия получения VIP аккаунта: | Conditions d'obtention d'un compte vip:
+vip_page_msg4 | 1. Верификация пользoвателя | 1. Vérification de l'utilisateur
+vip_page_msg5 | 2. Минимальный остаток на счёте для совершения сделок до 7 в сутки составляет 3 BTC или 85 ETH  на других криптовалютах это эквивалент $30 000 | 2. Le solde minimum du compte pour effectuer des transactions jusqu'à 7 par jour est de 3 btc ou 85 eht sur d'autres crypto-monnaies, c'est l'équivalent de 30 000 $
+vip_page_msg6 | 3. У VIP клиентов не может быть партнёров | 3. Les clients vip ne peuvent pas avoir de partenaires.
+vip_page_msg7 | 4. При необходимости необходимо отправить дополнительный документ для верификации и исключения поддельных данных | 4. Si nécessaire, il est nécessaire d'envoyer un document supplémentaire pour vérifier et exclure les fausses données
+vip_page_msg8 | Отправляя запрос Вы соглашаетесь с выше перечисленными условиями и Пользовательским соглашением. | En soumettant une demande, vous acceptez les termes et conditions ci-dessus et le contrat d'utilisation.
+demo_account | Demo account | Compte démo
+view_more_markets | Посмотреть больше | Voir plus de marchés
+how-to-buy-cryptocurrency | Как купить криптовалюту | Comment acheter de la crypto-monnaie
+cryptocurrency-wallets | Криптовалютные кошельки| Portefeuilles de crypto-monnaie
+beginners-guide | Руководство для начинающих | Guide du débutant
+learn-more-about-the-crossceed-service | Узнать больше о платформе Crossceed | En savoir plus sur le service Crossceed
+address_email | Адрес электронной почты | Adresse électronique
+link_not_valid | Ссылка недействительна | Le lien n'est pas valide
+account_verified | Ваш аккаунт успешно подтвержден | Votre compte a été vérifié avec succès
+start_trading | Начать торговлю | Commencez à trader
+
+
+
+
+
+
+reg_not_verif | Ваш аккаунт зарегистрирован, но не подтвержден | Votre compte est enregistré mais non vérifié
+link_confirm | На ваш адрес электронной почты было отправлено письмо со ссылкой для подтверждения вашей учетной записи | Un e-mail a été envoyé à votre adresse e-mail avec un lien pour vérifier votre compte
+warn_spam | Внимание! Если письмо не пришло, проверьте папку со СПАМом | Attention! Si l'e-mail n'est pas arrivé, vérifiez votre dossier SPAM
+enter_code | Введите код, отправленный по электронной почте | Entrez le code envoyé par email
+please_confrirm | Пожалуйста, подтвердите свою учетную запись по следующей ссылке | Veuillez vérifier votre compte au lien suivant
+read_more | Читать полностью | Lire la suite
+group_about | О нас | À propos
+group_terms | Соглашения | Termes
+group_security | Безопасность | Sécurité
+group_help | Помощь | Aider

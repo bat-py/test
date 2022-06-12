@@ -1,0 +1,21 @@
+@use "../../scss/variables.scss" as *;
+
+.button {
+  width: 90px;
+  height: 50px;
+  background-color: $black-element-bg;
+  border-radius: 8px;
+
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 600;
+  color: $dark-gray;
+
+  cursor: pointer;
+}
+
+.active {
+  background-color: $gold;
+  color: $black-bg;
+  cursor: auto;
+}

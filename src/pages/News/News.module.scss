@@ -1,0 +1,63 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  margin: 40px 0 60px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+}
+
+.news-item {
+  font-weight: 500;
+  padding: 24px 0;
+  border-bottom: 1px solid #67748140;
+
+  &__date {
+    color: $dark-gray;
+
+    margin-bottom: 12px;
+  }
+
+  &__title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: $gold;
+
+    margin-bottom: 12px;
+  }
+
+  &__text {
+    color: $dark-gray;
+    line-height: 22px;
+    max-width: 780px;
+
+    margin-bottom: 16px;
+  }
+
+  &__link {
+    text-decoration: underline;
+    color: $dark-gray;
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin-bottom: 130px;
+  }
+
+  .news-item {
+    &__text {
+      font-size: 15px;
+      line-height: 21px;
+    }
+
+    &__link {
+      font-size: 14px;
+      line-height: 17px;
+    }
+  }
+}

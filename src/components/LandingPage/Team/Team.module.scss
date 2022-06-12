@@ -1,0 +1,86 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 120px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  margin-bottom: 54px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+
+  & + & {
+    margin-top: 27px;
+  }
+}
+
+.member {
+  &__item {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    flex-grow: 1;
+    max-width: 410px;
+
+    & + & {
+      margin-left: 26px;
+    }
+  }
+
+  &__name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 12px;
+  }
+
+  &__role {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: $dark-gray;
+  }
+
+  &__icon {
+    margin-right: 22px;
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin-bottom: 60px;
+  }
+
+  .title {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 38px;
+    text-align: left;
+  }
+
+  .row {
+    flex-direction: column;
+
+    & + & {
+      margin-top: 16px;
+    }
+  }
+
+  .member {
+    &__item {
+      & + & {
+        margin-left: 0;
+        margin-top: 16px;
+      }
+    }
+  }
+}

@@ -1,0 +1,153 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+@use "../../ui-kit/scss/classes.scss" as *;
+
+.body {
+  margin: 100px 0 60px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  margin-bottom: 24px;
+}
+
+.card {
+  padding-bottom: 24px;
+}
+
+.table {
+  margin-top: 12px;
+  padding: 0 12px;
+
+  &__row {
+    padding: 12px 0;
+    align-items: center;
+
+    & + & {
+      border-top: 1px solid rgba(103, 116, 129, 0.1);
+    }
+  }
+
+  &__bold-text {
+    font-weight: 600;
+  }
+}
+
+.comments {
+  margin: 24px 0 0 24px;
+
+  &__item {
+    margin-bottom: 30px;
+
+    &-date {
+      color: rgb(180,180,180);
+      font-size: 12px;
+      margin-bottom: 10px;
+    }
+  }
+
+}
+
+.comments {
+  margin: 24px;
+
+  &__item-admin {
+    margin-bottom: 30px;
+    text-align: right;
+
+    &-date {
+      color: rgb(180,180,180);
+      font-size: 12px;
+      margin-bottom: 10px;
+      text-align: right;
+    }
+  }
+
+}
+
+.form {
+  display: flex;
+  margin: 24px 0 0 24px;
+
+  &__input {
+    width: 330px;
+    margin-right: 16px;
+  }
+
+  &__button {
+    height: 47px;
+  }
+}
+
+.input {
+  background-color: $black-bg;
+}
+
+.requests {
+  padding: 0 24px;
+}
+
+.request-item {
+  padding: 24px 0;
+
+  & + & {
+    border-top: 1px solid rgba(103, 116, 129, 0.1);
+  }
+
+  &__date {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: $dark-gray;
+    text-align: right;
+  }
+
+  &__info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 18px;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+  &__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 47px;
+    margin-top: 24px;
+  }
+}
+
+.hide-button {
+  visibility: hidden;
+}
+
+@media (max-width: 768px) {
+  .body {
+    width: 100%;
+    margin-top: 44px;
+    margin-bottom: 130px;
+  }
+
+  .title {
+    margin-bottom: 40px;
+  }
+
+  .form {
+    flex-direction: column;
+    padding: 0 16px;
+    margin-left: 0;
+
+    &__input {
+      width: 100%;
+    }
+
+    &__button {
+      margin-top: 12px;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.wrapper {
+  position: relative;
+  width: 100vw;
+  background-color: #373c4c;
+  padding: 18px 0;
+  text-align: center;
+  margin: 0 calc((100vw - 1260px) / 2 * -1);
+}
+
+@media (max-width: 1440px) {
+  .wrapper {
+    margin: 0 -80px;
+    padding: 12px 80px;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    font-size: 12px;
+    line-height: 17px;
+    padding: 12px 18px;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "common": { 
+    "sign-up": "Sign up",
+    "sign-in": "Sign in",
+    "header.sign-in": "Sign in",
+    "nav.trade": "Trade",
+    "nav.balance": "Balance",
+    "nav.exchange": "Exchange",
+    "nav.history": "History",
+    "nav.support": "Support"
+  }
+}

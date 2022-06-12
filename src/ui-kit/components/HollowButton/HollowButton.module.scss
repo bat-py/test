@@ -1,0 +1,29 @@
+@use "../../scss/variables.scss" as *;
+
+.button {
+  transition: all ease-out 0.1s;
+
+  background-color: transparent;
+  border: 2px solid $green;
+  box-sizing: border-box;
+  border-radius: 8px;
+  padding: 14px 20px;
+
+  cursor: pointer;
+
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: $green;
+
+  &:hover,
+  &--active {
+    background-color: $green;
+    color: #fff;
+  }
+
+  &:active {
+    background-color: $green-active;
+    border-color: $green-active;
+  }
+}

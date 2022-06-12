@@ -1,0 +1,36 @@
+@use "../../scss/variables.scss" as *;
+
+.arrow {
+  transition: all ease-in 0.1s;
+  &--active {
+    transform: rotate(-180deg);
+
+    & > path {
+      stroke: $gold;
+    }
+  }
+
+  &--green {
+    & > path {
+      stroke: $green;
+    }
+  }
+
+  &--red {
+    & > path {
+      stroke: $red;
+    }
+  }
+
+  &--dark-green {
+    & > path {
+      stroke: $green-text;
+    }
+  }
+
+  &--gray {
+    & > path {
+      stroke: $dark-gray;
+    }
+  }
+}

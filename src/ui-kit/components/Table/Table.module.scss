@@ -1,0 +1,76 @@
+@use "../../scss/variables.scss" as *;
+
+.table {
+  width: 100%;
+  &__wrapper {
+    padding: 0 32px;
+  }
+
+  &__first-row {
+    margin-top: -12px;
+  }
+
+  &__last-row {
+    padding-bottom: 12px;
+  }
+
+  &__cell {
+    padding: 12px 0 12px 12px;
+    font-size: 18px;
+    line-height: 22px;
+
+    &--center {
+      display: flex;
+      justify-content: center;
+      padding-left: 0;
+    }
+  }
+
+  &__body {
+    display: block;
+  }
+}
+
+.header {
+  &__column {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    color: $dark-gray;
+    text-align: left;
+
+    padding: 24px 0 24px 12px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid rgba(103, 116, 129, 0.25);
+
+    &--center {
+      display: flex;
+      justify-content: center;
+      padding-left: 0;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .table {
+    &__wrapper {
+      padding: 0 16px;
+    }
+
+    &__cell {
+      padding-left: 0;
+    }
+
+    &__last-row {
+      padding-bottom: 0;
+    }
+  }
+
+  .header {
+    &__column {
+      padding: 12px 0 12px;
+      font-size: 15px;
+      line-height: 18px;
+    }
+  }
+}

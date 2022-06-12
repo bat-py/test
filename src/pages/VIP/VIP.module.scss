@@ -1,0 +1,85 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  margin: 100px 0 60px;
+  font-weight: 500;
+  max-width: 850px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  margin-bottom: 24px;
+}
+
+.info {
+  padding: 30px 36px;
+
+  &__title {
+    font-size: 24px;
+    line-height: 34px;
+    margin-bottom: 18px;
+  }
+
+  &__subtitle {
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 20px;
+  }
+
+  &__text {
+    font-size: 20px;
+    line-height: 28px;
+    color: $dark-gray;
+
+    margin-bottom: 36px;
+  }
+
+  &__list-item {
+    font-size: 18px;
+    line-height: 25px;
+    color: $dark-gray;
+
+    & + & {
+      margin-top: 15px;
+    }
+  }
+
+  &__button {
+    margin-top: 30px;
+  }
+
+  &__disclaimer {
+    font-size: 13px;
+    line-height: 16px;
+    color: $dark-gray;
+
+    margin-top: 20px;
+    max-width: 450px;
+
+    &--underline {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin: 44px 0 130px;
+  }
+
+  .title {
+    margin-bottom: 40px;
+  }
+
+  .info {
+    padding: 20px 24px;
+
+    &__list-item {
+      font-size: 18px;
+      line-height: 22px;
+    }
+  }
+}

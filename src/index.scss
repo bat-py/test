@@ -1,0 +1,49 @@
+@use "./ui-kit/scss/variables.scss" as *;
+@use "./ui-kit/scss/font-face.scss";
+@use "./ui-kit/scss/mixins.scss" as *;
+
+* {
+  @include scrollbar();
+  box-sizing: border-box;
+  color: #fff;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: $black-bg;
+}
+
+button,
+input,
+textarea {
+  padding: 0;
+  border: 0;
+  appearance: none;
+  font-family: "Gilroy";
+}
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#root {
+  font-family: "Gilroy";
+  height: 100%;
+  padding-left: calc(100vw - 100%);
+}

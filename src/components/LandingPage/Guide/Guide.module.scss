@@ -1,0 +1,80 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  margin-bottom: 125px;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+}
+
+.head {
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 34px;
+  line-height: 42px;
+  font-weight: bold;
+  margin-bottom: 24px;
+}
+
+.subtitle {
+  font-size: 18px;
+  line-height: 25px;
+  color: $dark-gray;
+}
+
+.title,
+.subtitle,
+.item__text {
+  text-align: center;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(33% - 40px);
+
+  & + & {
+    margin-left: 40px;
+  }
+
+  &__img {
+    width: 240px;
+    height: 240px;
+    margin-bottom: 24px;
+  }
+
+  &__text {
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 26px;
+    line-height: 32px;
+  }
+
+  .items {
+    flex-direction: column;
+  }
+
+  .item {
+    width: 100%;
+
+    & + & {
+      margin-left: 0;
+      margin-top: 66px;
+    }
+
+    &__img {
+      margin-bottom: 12px;
+    }
+  }
+}

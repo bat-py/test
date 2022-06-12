@@ -1,0 +1,410 @@
+main | Главная | Crossceed Finance
+lang | ru | tr
+trade | Торговля | Ticaret
+balance | Баланс | Denge
+exchange | Обмен | Değişim
+history | История | Geçmiş
+news | Новости | Haberler
+contact | Контакты | Kontaklar
+profile | Профиль | Profil
+logout | Выйти | Çıkış
+login | Войти | Giriş yap
+register | Регистрация | Kayıt ol
+email_check_code | Введите код проверки с электронной почты | E-postada ki doğrulama kodunuzu girin
+condition_age | Подтвердите условия и ваш возраст | Koşullar ve Yaşınızı Onaylayın
+wrong_sum | Неправильная сумма | Yanlış Tutar
+wrong_balance | Неправильный баланс | Yetersiz Bakiye
+all_field | Заполните все поля | Tüm alanları doldurun
+about_us | О нас | Hakkımızda
+products | Продукты | Ürünler
+service | Обслуживание | Servisler
+support | Поддержка 24/7 | 7/24 Destek ( Canlı Yardım - Live Help )
+mob_support | Поддержка | Destek
+submit_request | Отправить запрос | İstek Gönderin
+learn | Изучить | Öğren
+community | Сообщество | İletişim Topluluğu
+ETCCEED_FINANCE | Покупайте и продавайте криптовалюту выгодно и безопасно | Karlı ve güvenli bir şekilde kripto alıp sat
+ETCCEED_FINANCE_TEXT | Многопрофильная криптовалютная площадка с ручным и автоматическим функционалом работы одновременно на нескольких криптовалютных биржах в режиме реального времени.умная система мониторинга предотвращает куплю/продажу в убыток. Наш клиент-инвестор всегда в прибыли как и компания. | Gerçek zamanlı olarak birkaç kripto para birimi borsalarında aynı anda manuel ve otomatik işlevselliğe sahip çok disiplinli bir kripto para birimi platformu. Akıllı bir izleme sistemi, zararla alım / satımı önler.
+step_1 | 1 шаг | 1.adım
+step_2 | 2 шаг | 2.adım
+step_3 | 3 шаг | 3.adım
+step_4 | 4 шаг | 4.adım
+step_5 | 5 шаг | 5.adım
+step_1_text | Клиент передает на управление<br /> свои финансы агенту | Müşteri yönetim finansmanını <br /> acenteye aktarır
+step_2_text | Агент выводит наличные<br /> и отсылает агенту в другой стране. | Acente nakit çeker <br /> ve başka bir ülkedeki bir acenteye gönderir.
+step_3_text | Второй агент, где курс ниже,<br /> покупает для клиента криптовалюту,<br /> и передает все компании. | Oranın daha düşük olduğu ikinci acente, müşteri için kripto para birimi satın alır ve  şirkete aktarır.
+step_4_text | Основная сумма и прибыль<br /> переводится на счет клиента. | Ana para ve karı <br /> müşterinin hesabına aktarılır.
+step_5_text | Завершение<br /> процесса сделки. | <br /> İşlem sürecinin tamamlanması.
+mobile | Мобильный | Cep Telefonu
+API | API | API
+sum | Сумма | Toplam Tutar
+API_Documentation | Официальная документация API | API Teknik İncelemeleri (Resmi API dokümanları)
+registration_closed | Регистрация закрыта | Kayıt tamamlandı
+for_free | бесплатно | hesap oluştur
+your_name | Enter your name | Adınız
+your_email | Введите Ваш Email адресс | E-posta Adresinizi Giriniz
+email | Email | Email
+sing_name | Имя, используемое для входа | Kullanıcı Adınızı Giriniz
+create_password | Создайте пароль | Şifrenizi Oluşturunuz
+create_password_text | Пароль не должен быть менее 6 символов | şifre en az 6 karakterden oluşmalıdır
+confirm_password | Подтвердите пароль | Şifrenizi Onaylayınız
+referral_ID | ID реферала (необязательно) | Kimlik Numaranız (İsteğe Bağlı)
+terms | Я принимаю Условия использования | Kullanım Koşullarını kabul ediyorum
+over_18 | Мне больше 18 лет | 18 yaşın üzerindeyim
+start_now | Начать! | Hesap oluştur
+have_account | Уже есть аккаунт? | Zaten bir hesabınız var mı?
+sign_in | Войти | Giriş Yap
+wrong_password | Неправильный пароль | Yanlış şifre
+password_match | Пароли не совпадают | Şifreler eşleşmiyor
+enter_email | Введите email | E-posta Girin
+user_exist | Пользователь уже существует |Bu Kullanıcı Adı Zaten var
+registration_completed | Регистрация завершена. Теперь Вы можете войти. | Kayıt tamamlandı. Şimdi giriş yapabilirsiniz.
+registration_completed_code | Регистрация завершена. Теперь Вы можете войти. | Kayıt tamamlandı. Şimdi giriş yapabilirsiniz.
+registration_moderation | Регистрация завершена. Вы можете войти после модерации. | Kayıt tamamlandı. Hesabınız onaylandıktan sonra giriş yapabileceksiniz.
+registration_instruction | Для завершения регистрации следуйте инструкциям: инструкции. | Kaydı tamamlamak için talimatları izleyin: talimatlar.
+your_password | Ваш Пароль | Şifreniz
+email_code | Email Код | E-posta Kodu
+dont_have_account | У Вас нет аккаунта? | Hesabınız yok mu?
+sign_up | Войти | Hesap Oluştur
+wrong_login | Неверный логин или пароль | Geçersiz kullanıcı adı veya şifre
+account_blocked | Аккаунт заблокирован | Hesap Blokelendi
+account_moderated | Аккаунт не модерирован | Hesap Onaylanmadı
+account_deleted | Аккаунт удален администратором | Hesap Administrator  tarafından silinmiştir.
+wrong_code | Неверный код авторизации | Geçersiz yetkilendirme kodu
+wrong_code_2 | Неверный код | Geçersiz kod
+your_code | Ваш код авторизации | Yetkilendirme kodunuz
+contact_center | Контактный центр | İletişim merkezi
+create_help | Мы созданы, чтобы помогать | Yardım etmek için buradayız.
+customer_service | Служба поддержки CROSSCEED работает круглосуточно и без выходных, чтобы помочь вам с вашими потребностями <br />. | Her konuda 7/24 size yardımcı olmak için CROSSCEED desteği  mevcuttur. <br />
+ask_question | Задать вопрос | Soru sorun
+send_request | Отправить запрос | İstek gönder
+topic_1 | Topic 1 | Başlık 1
+topic_2 | Topic 2 | Başlık 2
+topic_3 | Topic 3 | Başlık  3
+your_question | Ваш вопрос | Sorunuz
+FAQ | FAQ | FAQ
+our_address | Ваш Адрес | Adresiniz
+address_1 | 7298 East Charles Street | 7298 East Charles Street
+address_2 | New Lenox, IL 60451 | New Lenox, IL 60451
+contact_info | Контакты | İletişim bilgileri
+phone_1 | (896) 931-6550 | (896) 931-6550
+phone_2 | (965) 446-9687 | (965) 446-9687
+follow_us | Подпишитесь | Bizi Takip Edin
+sended | Отправлено | Gönderildi
+choose_currency_sell | Выберите валюту для продажи | Satılacak para birimini seçin
+choose_currency_buy | Выберите валюту для покупки | Satın alınacak para birimi seçin
+you_get | Вы получите | Alacaksınız
+enough_balance | Недостаточный баланс | Yetersiz Bakiye
+exchange_completed | Обмен завершен | Değişim tamamlandı
+wallet_history | История платежей | Ödeme geçmişi
+date | Дата | Tarih
+operation | Операция | Operasyon
+information | Информация | Bilgiler
+payment_manual | Все платежи производятся раз в 24 часа по запросу и в ручном режиме. | Tüm ödemeler talep üzerine ve manuel modda 24 saatte bir yapılır.
+status | Состояние | Durum
+complete | Выполненно | Tamamlandı
+pending | В ожидании | Beklemede
+declined | Отклонено | Reddedildi
+wallet | Кошелек | Cüzdan
+read_more | Читать больше | Daha Fazlasını  Oku
+account_verification | Верификация аккаунта | Hesap Doğrulama
+first_name | Имя | Ad
+second_name | Фамилия | Soyad
+patronymic | Отчество | Baba Adı
+address | Адрес | Adres
+password | Пароль | Şifre
+OK | OK | OK
+document_1 | Загрузить 1-ую страницу документа | Kimlik Belgenizin Ön yüzünü yükleyin
+document_2 | Загрузить 2-ую страницу документа  | Kimlik Belgenizin Arka yüzünü yükleyin
+send | Отправить | Gönder
+vip_request | Подать заявку на VIP  | VIP için başvur
+have_vip_request | У вас уже есть не рассмотренные заявки | Zaten bekleyen talebiniz mevcut
+wrong_format | Неверный формат файла | Geçersiz dosya formatı
+first_file | Загрузить первый файл | İlk dosyayı yükle
+uploaded | Загруженно | Yüklendi
+bad_password | Новый пароль не удовлетворяет требованиям | Yeni şifre gereksinimleri karşılamıyor
+user | Пользователь | Kullanıcı
+technical_issue | <p>Technical issue page content</p> | Teknik Sorunlar Sayfası
+subject | Тема | Konu
+close_ticket | Закрыть Тикет | Talebi Kapat
+create | Создать | Oluştur
+comment | Комментарий | Yorum
+add | Добавить | Ekle
+open | Открыто | Açık
+closed | Закрыто | Kapalı
+your_tickets | Ваши Квитанции | Talepleriniz
+question | Вопрос | Soru
+error | Ошибка | Hata
+another | Другое | Diğer
+text | Текст | Metin
+INFO | Инфо | Bilgi
+refresh | Обновить | Yenile
+replenish | Пополнение | Doldur
+payout | Выплата | Ödeme
+replenish_balance | Пополнить баланс | Para Ekleyin
+choose_wallet | Выберите свой кошелек | Cüzdanınızı seçin
+quantity | Введите количество | Miktarını girin
+available | Доступно | Hesap Bakiyesi
+minimal | Минимум | Asgari
+commision | Комиссия | Komisyon
+XLM_address | Ваш XLM-адрес | Xlm adresiniz
+memo_ID | Memo ID (необязательно) | Kimlik Numaranız (isteğe bağlı)
+create_request | Создать запрос | İstek oluştur
+check_code | Введите код проверки с электронной почты | E-postadaki doğrulama kodunu girin
+trade_process | Процесс Торговли | Ticaret Süreci
+start_robot | Старт Робота | Robot Başlatma
+trade_dont | Торговля не работает | Ticaret çalışmıyor
+email_code_2 | Для подтверждения введите код из письма | Onaylamak için, e-mailinize gönderilen kodu girin
+volume_24 | Объем торгов за 24 часа | 24 saat içinde  işlem hacmi
+order_amount | Введите сумму заказа | Sipariş tutarını girin
+apply | Применить | Başvur
+bid_USD | Bid USD | Teklif USD
+ask_USD | Ask USD | USD sor
+chg_24h | Chg 24h | Değ. 24s
+graphs | Графики | Grafikler
+to_processing | Перейти к обработке заказа | Siparişi  işle
+days | Дней | Günler
+number_days | Количество рабочих дней | İş günü sayısı
+start | Старт | Başlat
+stop | Стоп | Dur
+arbitrage | Арбитраж | Arbitraj
+server_time | Серверное время | Sunucu zamanı
+CALCULATION | РАСЧЕТ АРБИТРАЖНОЙ СИСТЕМЫ | ARBİTRAJİN SİSTEMİNİN HESAPLANMASI
+sale | Продажа | satış
+volume | Объем | Hacim
+price | Цена | Fiyat
+market_exchange | Рынок (обмен) | Değişim Piyasası
+beneficiary | Бенефициар | Hesap Sahibi
+commission_bid | Комиссия/предложение | Komisyon / Teklif
+amount | Количество | Sayısı
+withdraw | Вывод / обмен (fiat) | Para çekme / Değişim (fiat )
+receipt | Получение | Makbuz
+issuing_bank | Банк-Эмитент | İhraç Eden Banka
+requirements | Не выполнены условия для завершения операции. | İşlemi tamamlama koşulları karşılanmamıştır.
+transit_paysafe | Транзит Paysafe | Paysafe Transiti
+purchase | Покупка | Satın Alma
+commission_withdraw | Комиссия/Вывод | Komisyon / Para Çekme
+delta | Дельта | Delta
+distribution | Распределение | Dağıtım
+counterparty_sale | Контрагент/продажа | Karşı Taraf / Satış
+counterparty_purchase | Контрагент/покупка | Karşı taraf / Satın Alma
+COMPANY | КОМПАНИЯ | ŞİRKET
+delta_client | Дельта/Клиент | Delta / Müşteri
+partner | Партнер | Ortak
+total_transaction | Общая транзакция | Toplam İşlem
+transaction_result | Возврат результата транзакции (включая общую прибыль) | İade işlem sonucu (toplam kâr dahil)
+confirm | Подтвердите операцию обмена | Değiştirme işlemini onaylayın
+proliminary | Предварительный | Ön Sipariş
+online_orders | Онлайн заказы | Online Siparişler
+no_premilinary | Нет предварительных заказов | Ön sipariş yok
+current_status | Текущий статус | Şu anki  Durum
+transaction_hash | Хэш транзакции | İşlem karması
+commission_withdrawal | Комиссия/снятие USD | komisyonu / USD  para çekme
+dispatch_volume | Объем отправки | Nakliye Hacmi
+comission_operator | Оператор комиссии | Operatör Komisyonu
+no_request | У вас нет заявок на торговлю | Talep Yok
+detail | Подробнее | Detaylı
+new | НОВЫЙ | Yeni
+accept | ПРИНЯТ | KABUL EDİLDİ
+decline | ОТКЛОНЕН | REDDEDİLDİ
+fail | СБОЙ | HATA
+back | Назад | Geri
+ stage_1 | Этап сделки 1 | İşlem Aşaması 1
+stage_2 | Этап сделки 2 | İşlem Aşaması 2
+stage_3 | Этап сделки 3 | İşlem Aşaması 3
+stage_4 | Этап сделки 4 | İşlem Aşaması 4
+stage_5 | Этап сделки 5 | İşlem Aşaması 5
+stage_6 | Этап сделки 6 | İşlem Aşaması 6
+ticket_created | Заявка Созданна | Başvuru  oluşturuldu
+ticket_list | Список Заявок | Başvuru  Listesi
+comment_created | Комментарий добавлен | Yorum eklendi
+ticket_closed | Тикет закрыт | Talep kapatıldı
+ticket | Заявка | Talep
+referral_list | Список рефераллов | Yönlendirmelerin listesi
+payment_history | История выплат | Ödeme Geçmişi
+request_sended | Заявка подана | Başvuru gönderildi
+trade_limit | Торговый лимит достигнут | Ticaret limitine ulaşıldı
+no_profit | Нет прибыли | Kazanç yok
+trade_sended | Отправлен торговый запрос | Ticaret talebi gönderildi
+minimum_refill | Ошибка минимального предела пополнения | Minimum para yatırma sınırı hatası
+refill_sended | Запрос на пополнение отправлен |Para Yatırma talebi gönderildi
+request_done | Заявка уже обработанна | Başvuru işlendi.
+request_confirmed | Заявка подтвеждена | Başvuru Onaylandı
+payment_destination | Введите назначение оплаты | Ödeme hedefini girin
+autotrade_isset | У вас есть не завершенный автотрейд. | Tamamlanmamış bir otomatik  ticaretiniz var
+minimum_error | Ошибка минимального лимита выплат | Minimum Ödeme Sınırı Hatası
+maximum_error | Ошибка максимального лимита выплат | Maksimum Ödeme Sınırı Hatası
+payout_request | Заявка на вывод средств | Para Çekme Başvurusu
+your_code_2 | Ваш код подтверждения | Doğrulama kodunuz
+not_found | Не найден | Bulunamadı
+no_autotrade | Нет запущеных автотрейдов | Otomatik işlem başlatılamadı.
+autotrade_completed | Авторобот завершил работу. |İşlem otomatik olarak  tamamlandı.
+your_profit | Ваша прибыль | Karınız
+autotrade_already | Автотрейд уже запущен | Otomatik ticaret zaten çalışıyor
+autotrade | Автотрейд | Otomatik ticaret
+autotrade_start | Авторобот запущен | Otomatik Ticaret  Başlatıldı
+thank_you | Спасибо за то, что вы с нами! | Bizimle olduğunuz için teşekkürler!
+copy | Спасибо за то что вы с нами..      CROSSCEED.COM   Inc. Все права защищены. | Bizimle olduğunuz için teşekkür ederiz .. CROSSCEED.COM Inc. Tüm hakları saklıdır.
+trade_executed | Ордер успешно завершен . | Sipariş başarıyla tamamlandı.
+wallet_amount | На ваш кошелек начислено: | Paranız Hesabınıza Yatırıldı.
+detailed_history | Больше информации вы можете посмотреть на вашем аккаунте по вкладке меню history | Detaylı Bilgiyi Hesabınız "Geçmiş" Adımından Ulaşabilirisiniz.
+trade_complete | Торговля Завершена | İşleminiz Tamamlandı
+min_autotrade | Срок автотрейда меньше минимального | Otomatik işlem süresi minimumdan daha az
+login_confirm | Подтвердите вход на crossceed.com | Crossceed.com'a  Girişi Doğrulayın.
+login_confirm_text | На Ваш email было отправленно письмо с кодом для подтверждения входа. | Giriş için e-mail adresinize gönderilen doğrulama kodunu girin.
+dear | Дорогой | Sayin
+security_code | код безопасности | Güvenlik Kodu
+qtyorder | Количество ордеров | Sipariş Sayısı
+your_balance | Ваш баланс | Bakiyeniz
+order_cancelled | Ордер отменен . Причина : Изменение курса на биржес | Sipariş İptal Edildi  İptal Nedeni: Döviz Kuru Değişti.
+account_verificated | Ваш акаунт верифицирован. Все ограничения сняты | Hesap Doğrulandı / Limit Kısıtlamaları Kaldırıldı.
+payment_order | Ордер на вывод . | Ödeme Talebi
+reg_code | Вы зарегистрировались на платформе crossceed.com. Введите код подтверждения регистрации<br/>Код подтвержения регистрации :  | crossceed.com'a kayıt oldunuz. Kayıt doğrulaması için kodunuzu girin.<br/>Kayıt Kodunuz:
+reg2 | Спасибо. Регистрация завершена. Аккаунт не верифицирован. Верифицируйте аккаунт для снятия ограничений  | Teşekkürler. Kaydınız Başarıyla Tamamlandı .Hesap Doğrulanmadı. Limit Kısıtlamasını Kaldırmak için Hesabınızı Doğrulayın.
+reg31 | Ваш аккаунт активирован, но не верифицирован вы можете создавать ордер максимум на | Hesabınız etkinleştirildi;ancak doğrulanmadı.  *** Miktarı kadar sipariş girebiliriniz.
+reg32 | верифицируйте свой аккаунт для снятия ограничений | Kısıtlamaları kaldırmak için hesabınızı doğrulayın
+CROSSCEED_FINANCE | Межбиржевая платформа CROSSCEED FINANCE | Borsalar Arası  Değişim Platformu CROSS CEED FINANCE
+CROSSCEED_FINANCE_TEXT | Многопрофильная криптовалютная площадка с ручным и автоматическим функционалом работы одновременно на нескольких криптовалютных биржах в режиме реального времени. Умная система мониторинга предотвращает куплю/продажу в убыток. Наш клиент-инвестор всегда в прибыли как и компания. | Birkaç kripto para birimi borsalarında gerçek zamanlı olarak aynı anda çalışmanın manuel ve otomatik işlevselliğine sahip çok profilli bir kripto para birimi platformu. Akıllı izleme sistemi, kayıp / almayı önler. Müşteri-yatırımcımız şirket gibi daima kârlıdır.
+agree_with | согласие с | Kullanıcı sözleşmesini ve Gizlilik
+user_agreement | пользовательским соглашением | politikasını okudum
+and | и | ve
+privacy | политикой конфидициальности | kabul ediyorum
+newsletter | получать новостную рассылку |  Haberler almak
+registration_email | Код подтверждения выслан на email |  Onay E-Postanız  gönderildi
+system_agent | System Agent | System Agent
+stockbroker | Биржевые Агенты |  Borsa Acenteleri
+name | Имя | Adı
+country | Страна | Ülke
+city | Город | İl/İlçe
+payment_system | Платежные системы | Ödeme sistemleri
+bank | Банк | Banka
+company | Компания | Şirket
+vacancy_list | Список вакансий | İş listesi
+vacancy_description | Описание вакансии | Açık İş Opsiyonları
+tech_division | Технический отдел | Teknik departman
+agent_info | Информация про биржевых агентов | Değişim Temsilcileri ile ilgili bilgiler
+ads | Реклама и продвижение | Reklam ve tanıtım
+VIP_accounts | VIP accounts | VIP accounts
+time | Время | Zaman (saat)
+time_place | Местное время | Yerel saat
+qty | Количество | Miktar
+adelta | Арбитражная дельта | Arbitraj Piyasaları
+profitability | Доходность | Karlılık
+result | Итог | Sonuç
+sell | Продажа | Satış
+buy | Покупка | Satın alma
+last_operation | Последние операции | Son İşlemler
+loading_start | Начало загрузки | Yükle
+structure | Структура | Yapı
+autorobot | Авторобот | Autobot (autorobot)
+merchant | Мерчант | Tüccar
+global_merchant | мерчант для глобальных платежей | Küresel Satıcılar
+cancel | ОТМЕНИТЬ | İPTAL
+autotrade_block | Заблокировано на время автотрейда. | Otomatik Ticaret Geçici Olarak Engellendi.
+request_rejected | Заявка отклонена | Talebiniz Rededildi.
+local_time | Местное время | Yerel saat
+link | ссылка | bağlantı
+referal_program | Реферальная программа | Tavsiye programı
+top_bid | Top bid | Top bid
+lowest_ask | Lowest ask | Lowest ask
+agent_list | Agent List | Agent List
+deposit | Deposit | Deposit
+withdrawal | Withdrawal | Withdrawal
+balance_refill | Баланс пополнен на | Yatırılan Tutar
+select_tradee | Выберите Биржу |  Borsa Seçin
+trade_active | У вас есть активные торговые операции | Aktif ticaret işlemleriniz var
+vacancy_text | Мы ищем замечательных и умных людей, чтобы присоединиться к нашей растущей команде. Мы уже работаем в качественном партнерстве и необходимость в новых кадрах есть по всему миру. Поэтому, наша сеть агентов на криптовалютных рынках и менеджеров по операциям будет расти по мере расширения нашей деятельности. Будем рады видеть вас в команде! | Büyüyen ekibimize katılmak için harika ve akıllı insanlar arıyoruz. Zaten kaliteli bir ortaklıkta çalışıyoruz ve tüm dünyada yeni personele ihtiyaç duyuyoruz. Bu nedenle, kripto para piyasası aracıları ve operasyon yöneticileri ağımız, işimiz genişledikçe büyüyecek. Sizi ekipte görmekten memnuniyet duyarız!
+commission_agent | Комиссия агента | Temsilci komisyonu
+operation_qty | Количество сделок | Anlaşma miktarı
+operation_qty_left | Осталось сделок | Kalan fırsatlar
+min_autotrade_2 | Не верное количество операций | Geçersiz işlem sayısı
+isset_balance_exchange | Доступный баланс для обмена | Kullanılabilir döviz bakiyesi
+exchange_not_enouth_money | Недостаточно средств на обменном балансе | Döviz bakiyesinde yetersiz fon
+exchange_mist | Ошибка определения текущего обменного курса. Попробуйте сделать поппытку немного позже. |  Döviz bakiyesinde yetersiz fon. Lütfen daha sonra tekrar deneyiniz.
+enter_amount_for_trade | Вы не ввели сумму | Tutarı girmediniz
+min_amount_for_trade | Введите сумму больше минимальной | Minimum tutardan daha büyük bir tutar girin
+history_payment_o1 | Операция обмена криптовалют | Kripto para birimi değişim işlemi
+history_payment_o2 | Пополнение депозита | Depozito Yatırma
+history_payment_o4 | Вывод с депозита | Depozitodan Cekme
+history_payment_o5 | Операция трэйда | Ticaret operasyonu
+history_payment_o8 | Ошибка по операции треда, возврат средств. | Ticaret  işleminde hata, geri ödeme.
+history_payment_o10 | Списание по автороботу. | Autobot tarafından yazılır.
+history_payment_o7 | Пополнение после работы авторобота. | Autobot'un çalışmasından sonra ikmal.
+history_payment_o22 | Возврат средст после остановки авторобота. | Autobot'u durdurduktan sonra para iadesi.
+history_payment_o11 | Реферальное вознаграждение. | Tavsiye ödülü.
+history_payment_o15 | Поступление после операции. | işlem  sonrası ikmali.
+history_payment_o23 | Возврат срдест при сбое работы авторобота. | Autobot'un arızalanması durumunda geri ödeme.
+how_work_on_platform | Как работать на платформе | BU NASIL ÇALIŞIR
+cookie_agreement | Мы используем файлы cookies. Нажмите здесь, чтобы подтвердить свое согласие на использование cookies. | Çerez kullanımını onaylamak için buraya tıklayın.
+cookie_agreement_2 | Ознакомьтесь с нашей политикой конфиденциальности. | Gizlilik politikamıza göz atın.
+agree | Согласен | Kabul ediyorum
+balance_send | Отправьте | Gönder
+balance_to_this_address | на этот адрес | Bu adrese
+balance_will_update_automatically | Баланс будет обновлен автоматически | Bakiye otomatik olarak güncellenecektir
+history_payment_o24 | Ожидание поступления на депозит |  Vadeli Hesaba  Para Yatırma Bekleniyor.
+expect_intro_money | Ожидание поступления | Hesaba Para Girişi Bekleniyor
+summ_added_to_balance | Баланс успешно пополнен | Hesaba Para Yatırma Başarılı.
+question_created | Вопрос отправлен | Soru gönderildi
+question_receive | Ваш запрос получен и зарегистрирован под номером | Talebiniz alındı ve numara altında kaydedildi
+question_we_will_answer | Мы ответим Вам в ближайшее время. | Size en kısa sürede cevap vereceğiz.
+question_question | Вопрос | Soru
+question_support_ans | Ответ по запросу | İstek üzerine cevap
+question_support_ans_2 | Наш ответ по Вашему запросу | Talebinize cevabımız
+question_support_your_question_from | Ваш вопрос от |dan  Sorunuz
+else_agent | Ещё агенты | Daha fazla Ajan
+pending_sucs | подтверждение | Onay
+request_confirmed_link | Ссылка подтверждения. | Talep Onay Bağlantısı.
+limit_payout_at_day | Вы уже достигли лимита по количеству выводов в день | Günlük para çekme limitiniz dolu.
+limit_col_days | Выводить средства можно не раньше чем через {x} дней после пополнения! | Para Yatırma işlenminden sonra en geç {x} gün sonra paranızı  çekebilirsiniz!
+text_develop_app | Приложение находится в разработке. Планируемая дата выхода: 15.10.2020 г. | Uygulama geliştirme aşamasındadır. Planlanan çıkış tarihi: 15/10/2020
+history_payment_o30 | Ожидание завершения трэйда | Pending trade
+history_payment_o31 | Ожидание завершения трэйда | Pending trade
+new_password | Новый пароль | Yeni Şifre
+restore | Восстановить | Onarmak
+restore_password | Забыли пароль? | Şifrenizi unuttunuz mu?
+restore_pswd | Восстановить пароль | Şifreyi kurtar
+remember_the_password | Вспомнили пароль? | Şifrenizi hatırladınız mı?
+wrong_email | Такой email не существует | Böyle e-posta adresi yok
+change_pswd_ok | Ваш пароль изменён | Şifreniz değiştirildi
+restore_code | Вы запросили восстановления пароля на платформе crossceed.com. Введите код подтверждения восстановления Код восстановления пароля регистрации :  | crossceed.com. platformunda şifrenin kurtarılmasını istediniz. Şifre kurtarmasının onaylama kodunu girin Şifre kurtarma kodu:
+about_menu | О нас | Hakkımızda
+partners | Партнёрам | Ortaktakilere
+VIP | VIP | VIP
+VIP_modal_title | Выгодные VIP партнерские программы | Faydalı VIP Havale programları
+VIP_modal_content | Особые VIP клиенты по вашей партнёрской ссылке обсуждаются лично с вами. | Havale bağlantınıza geçen özel VIP kullanıcıları kendinizle konuşulur.
+copy_right | Все права защищены. Crossceed является торговой маркой компании Crossceed Finance LTD | Tüm Hakları Saklıdır. Crossceed, Crossceed Finance LTD Şirketinin ticari markasıdır.
+suppot_mail | Если у вас возникли, какие-то вопросы по работе сайта, тогда обратитесь в нашу техническую поддержку | Herhangi bir sorunuz varsa veya sadece sorunlarınız varsa, teknik desteğimize başvurun.
+ip_mail | IP адрес | IP adresi
+vip_page_msg1 | VIP - клиентам | VİP müşterilere
+vip_page_msg2 | VIP аккаунт - это кабинет где клиенту предоставляется увеличенное количество ордеров до 7 в день и более короткие промежутки между сделками, а так же увеличенный доход от сделки. | VİP hesabı, emirlerin sayısı günde 7’ye kadar olduğu, anlaşmalar arasındaki araları daha kısa olduğu, anlaşmadan kazanılan gelirin artılmış olduğu bir hesaptır.
+vip_page_msg3 | Условия получения VIP аккаунта: | VİP hesabını almak için şu koşullara uymalısınız:
+vip_page_msg4 | 1. Верификация пользoвателя | 1. Profilinizini doğrulamalısınız.
+vip_page_msg5 | 2. Минимальный остаток на счёте для совершения сделок до 7 в сутки составляет 3 BTC или 85 ETH  на других криптовалютах это эквивалент $30 000 | 2. Anlaşmaları günde 7’ye kadar yapmanız için hesabınızda kalan toplam en azından 3 BTC veya 85 ETH, diğer şifreli dövizlerdeyse 30 000 dolara eşdeğer olmalı.
+vip_page_msg6 | 3. У VIP клиентов не может быть партнёров | 3. VİP müşterilerin ortakları yok.
+vip_page_msg7 | 4. При необходимости необходимо отправить дополнительный документ для верификации и исключения поддельных данных | 4. Profilinizi doğrulamak ve sahte verilerin gönderilmesini önlemek için gerekirse ek kimlik belgelerini göndermelisiniz.
+vip_page_msg8 | Отправляя запрос Вы соглашаетесь с выше перечисленными условиями и Пользовательским соглашением. | VİP hesabı başvurusunu gönderiyorsanız yukarıdaki koşulları ve Kullanıcı Şartlarımızı kabul ediyorsunuz.
+demo_account | Demo account | Demo hesabı
+view_more_markets | Посмотреть больше | Daha Fazlasını Göster
+how-to-buy-cryptocurrency | Как купить криптовалюту | Kripto para nasıl alınır
+cryptocurrency-wallets | Криптовалютные кошельки| Cryptocurrency cüzdanları
+beginners-guide | Руководство для начинающих | Yeni başlayanların kılavuzu
+learn-more-about-the-crossceed-service | Узнать больше о платформе Crossceed | Crossceed hizmeti hakkında daha fazla bilgi edinin
+address_email | Адрес электронной почты | E
+link_not_valid | Ссылка недействительна | Bağlantı geçerli değil
+account_verified | Ваш аккаунт успешно подтвержден | Hesabınız başarıyla doğrulandı
+start_trading | Начать торговлю | Ticarete başla
+
+
+
+
+
+reg_not_verif | Ваш аккаунт зарегистрирован, но не подтвержден | Hesabınız kayıtlı ancak doğrulanmadı
+link_confirm | На ваш адрес электронной почты было отправлено письмо со ссылкой для подтверждения вашей учетной записи | E-posta adresinize hesabınızı doğrulamak için bir bağlantı içeren bir e-posta gönderildi
+warn_spam | Внимание! Если письмо не пришло, проверьте папку со СПАМом | Dikkat! E-posta gelmediyse, SPAM klasörünüzü kontrol edin
+enter_code | Введите код, отправленный по электронной почте | E-posta ile gönderilen kodu girin
+please_confrirm | Пожалуйста, подтвердите свою учетную запись по следующей ссылке | Lütfen aşağıdaki bağlantıdan hesabınızı doğrulayın
+read_more | Читать полностью | Devamını oku
+group_about | О нас | hakkında
+group_terms | Соглашения | Koşullar
+group_security | Безопасность | Güvenlik
+group_help | Помощь | Yardım

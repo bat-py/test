@@ -1,0 +1,105 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+@use "../../ui-kit/scss/classes.scss" as *;
+
+.body {
+  margin: 100px 0 60px;
+  width: 825px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  margin-bottom: 24px;
+}
+
+.date {
+  font-weight: 600;
+}
+
+.operation {
+  &__icon {
+    margin-right: 10px;
+  }
+
+  &__info {
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+  }
+
+  &__arrow {
+    width: 24px;
+    height: 24px;
+    margin-left: 4px;
+  }
+
+  &__text {
+    font-size: 15px;
+    line-height: 18px;
+    margin-top: 6px;
+  }
+}
+
+.table {
+  margin-top: 12px;
+  padding: 0 12px;
+
+  &__row {
+    padding: 12px 0;
+    align-items: center;
+
+    & + & {
+      border-top: 1px solid rgba(103, 116, 129, 0.1);
+    }
+  }
+}
+
+.history {
+  padding: 0 24px;
+}
+
+.history-item {
+  padding: 24px 0;
+
+  & + & {
+    border-top: 1px solid rgba(103, 116, 129, 0.1);
+  }
+
+  &__date {
+    text-align: right;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: $dark-gray;
+    margin-bottom: 12px;
+  }
+
+  &__operation-and-status {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__status {
+    margin-top: 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    width: 100%;
+    margin-top: 44px;
+    margin-bottom: 130px;
+  }
+
+  .title {
+    margin-bottom: 40px;
+  }
+
+  .operation {
+    &__text {
+      font-size: 14px;
+      line-height: 17px;
+    }
+  }
+}

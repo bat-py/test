@@ -1,0 +1,6 @@
+@use "../../scss/variables.scss" as *;
+
+.body {
+  background-color: $black-element-bg;
+  border-radius: 8px;
+}

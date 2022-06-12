@@ -1,0 +1,21 @@
+@use "../../scss/variables.scss" as *;
+
+.wrapper {
+  position: relative;
+  cursor: pointer;
+  user-select: none;
+}
+
+.input-wrapper {
+  pointer-events: none;
+}
+
+.icon {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
+.realInput {
+  display: none;
+}

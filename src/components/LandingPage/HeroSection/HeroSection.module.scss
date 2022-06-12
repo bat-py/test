@@ -1,0 +1,116 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: grid;
+  margin-top: 28px;
+  grid-template-columns: minmax(calc(66% - 40px), 722px) minmax(calc(33% - 40px), 420px);
+  grid-template-rows: 630px;
+}
+
+.text-block {
+  margin-top: 72px;
+  max-width: 722px;
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.title {
+  font-size: 42px;
+  line-height: 52px;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+.text {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  color: $dark-gray;
+  margin-bottom: 40px;
+}
+
+.cards {
+  position: relative;
+  width: 100%;
+  grid-column: 2;
+
+  &-bg--1 {
+    z-index: -5;
+    position: absolute;
+    top: 0px;
+    left: 80px;
+    width: 55px;
+    height: 451px;
+    background-color: rgba(0, 192, 90, 0.75);
+    opacity: 0.9;
+    filter: blur(160px);
+    transform: rotate(39.97deg);
+  }
+
+  &-bg--2 {
+    z-index: -5;
+    position: absolute;
+    top: 170px;
+    left: 240px;
+    width: 55px;
+    height: 451px;
+    background-color: rgba(252, 201, 88, 0.75);
+    opacity: 0.9;
+    filter: blur(160px);
+    transform: rotate(39.97deg);
+  }
+}
+
+.card {
+  position: absolute;
+
+  &--1 {
+    transform: rotate(19.2deg);
+    top: 20px;
+    left: 80px;
+  }
+
+  &--2 {
+    transform: rotate(-16.82deg);
+    top: 230px;
+    left: 180px;
+  }
+}
+
+@media (max-width: 1300px) {
+  .card {
+    &--1 {
+      left: 40px;
+    }
+
+    &--2 {
+      left: 140px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 60px;
+  }
+
+  .text-block {
+    margin-top: 44px;
+  }
+
+  .title {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 24px;
+  }
+
+  .text {
+    margin-bottom: 24px;
+  }
+
+  .cards {
+    display: none;
+  }
+}

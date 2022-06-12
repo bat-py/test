@@ -1,0 +1,69 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 120px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  margin-bottom: 40px;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 28px 0;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  color: $dark-gray;
+
+  &__text {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: inherit;
+  }
+
+  &__logo {
+    margin-bottom: 16px;
+  }
+
+  &:hover {
+    color: #fff;
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin-bottom: 60px;
+  }
+
+  .title {
+    text-align: left;
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .list {
+    padding: 20px 0;
+    flex-direction: column;
+  }
+
+  .item {
+    width: 100%;
+    & + & {
+      margin-top: 60px;
+    }
+  }
+}

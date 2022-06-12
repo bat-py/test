@@ -1,0 +1,81 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+@use "../../ui-kit/scss/classes.scss" as *;
+
+.wrapper {
+  position: relative;
+  user-select: none;
+}
+
+.body {
+  position: absolute;
+  top: 45px;
+  left: -90px;
+  padding-bottom: 8px;
+  z-index: 5;
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  color: $dark-gray;
+  cursor: pointer;
+  padding: 12px 21px 12px 12px;
+
+  &__icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 16px;
+  }
+
+  &--active {
+    color: #fff !important;
+    cursor: auto;
+  }
+
+  &:hover {
+    color: $gold;
+  }
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon {
+  border: 2px solid $dark-gray;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  margin-right: 4px;
+
+  &--active {
+    border-color: $gold;
+  }
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    display: flex;
+  }
+
+  .option {
+    &__icon {
+      width: 36px;
+      height: 36px;
+      margin-right: 0;
+    }
+
+    &--mobile {
+      & + & {
+        margin-left: 24px;
+      }
+    }
+  }
+
+  .icon {
+    width: 36px;
+    height: 36px;
+  }
+}

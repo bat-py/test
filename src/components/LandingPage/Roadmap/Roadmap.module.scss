@@ -1,0 +1,96 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 120px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  margin-bottom: 40px;
+}
+
+.menu {
+  margin-bottom: 27px;
+}
+
+.roadmap-list {
+  display: flex;
+  overflow-y: auto;
+}
+
+.roadmap-item {
+  min-width: 290px;
+  max-width: 290px;
+  padding: 20px;
+  height: 496px;
+
+  & + & {
+    margin-left: 40px;
+  }
+
+  &__title {
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+
+  &__text {
+    position: relative;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+    padding-left: 16px;
+
+    & + & {
+      margin-top: 18px;
+    }
+
+    &::before {
+      position: absolute;
+      top: 4px;
+      left: 0;
+      content: "";
+      background-color: $green;
+      border-radius: 50%;
+      width: 8px;
+      height: 8px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin-bottom: 60px;
+  }
+
+  .title {
+    text-align: left;
+    font-size: 28px;
+    line-height: 35px;
+  }
+
+  .roadmap-list {
+    margin-right: -16px;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  .roadmap-item {
+    & + & {
+      margin-left: 20px;
+    }
+
+    &:last-child {
+      margin-right: 16px;
+    }
+  }
+}

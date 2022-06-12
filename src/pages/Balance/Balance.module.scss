@@ -1,0 +1,104 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+@use "../../ui-kit/scss/classes.scss" as *;
+
+.body {
+  margin: 100px 0 60px;
+  max-width: 826px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title {
+  font-size: 28px;
+  line-height: 35px;
+  font-weight: 700;
+}
+
+.button {
+  width: 131px;
+  height: 47px;
+}
+
+.table {
+  margin-top: 12px;
+  padding: 0 12px;
+
+  &__row {
+    padding: 12px 0;
+    align-items: center;
+
+    & + & {
+      border-top: 1px solid rgba(103, 116, 129, 0.1);
+    }
+  }
+
+  &__token-icon {
+    margin-right: 8px;
+  }
+
+  &__token-cell {
+    display: flex;
+  }
+
+  &__token-name {
+    font-weight: 600;
+  }
+
+  &__token-fullname {
+    color: $dark-gray;
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  &__action-link {
+    & > a {
+      &:hover {
+        color: $gold-hover;
+      }
+    }
+
+    & + & {
+      margin-left: 32px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin-bottom: 130px;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .title {
+    margin-bottom: 40px;
+  }
+
+  .button {
+    align-self: flex-end;
+  }
+
+  .table {
+    margin-top: 18px;
+    padding: 0 24px;
+
+    &__row {
+      display: flex;
+      justify-content: space-between;
+      padding: 24px 0;
+    }
+
+    &__token-total {
+      font-size: 12px;
+      line-height: 15px;
+      margin: 0 24px;
+    }
+  }
+}

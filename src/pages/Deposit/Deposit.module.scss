@@ -1,0 +1,61 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 124px 0 60px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  margin-bottom: 24px;
+}
+
+.form {
+  width: 460px;
+}
+
+.input,
+.button {
+  width: 100%;
+}
+
+.input {
+  & + & {
+    margin-top: 24px;
+  }
+
+  &__label {
+    font-size: 15px;
+    line-height: 18px;
+    color: $dark-gray;
+    margin-bottom: 8px;
+  }
+
+  &__wrapper {
+    width: 100%;
+  }
+}
+
+.button {
+  margin-top: 24px;
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin: 44px 0 130px;
+  }
+
+  .title {
+    align-self: flex-start;
+    margin-bottom: 40px;
+  }
+
+  .form {
+    width: 100%;
+  }
+}

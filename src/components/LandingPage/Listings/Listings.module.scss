@@ -1,0 +1,37 @@
+.body {
+  margin-bottom: 120px;
+}
+
+.cards {
+  display: flex;
+  width: 100%;
+  margin-bottom: 90px;
+}
+
+.card {
+  width: 20%;
+
+  & + & {
+    margin-left: 27px;
+  }
+}
+
+@media (max-width: 768px) {
+  .body {
+    margin-bottom: 60px;
+  }
+
+  .card {
+    width: 234px;
+  }
+
+  .cards {
+    position: relative;
+    overflow-y: auto;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}

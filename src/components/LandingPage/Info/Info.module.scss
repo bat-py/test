@@ -1,0 +1,91 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.subtitle {
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 500;
+  color: $dark-gray;
+  text-align: center;
+
+  width: 722px;
+  margin-bottom: 60px;
+}
+
+.info {
+  padding: 30px 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.info-block {
+  & + & {
+    margin-top: 90px;
+  }
+
+  &__title {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 16px;
+  }
+
+  &__text {
+    font-size: 16px;
+    line-height: 22px;
+    color: $dark-gray;
+  }
+
+  &__button {
+    margin-top: 40px;
+    align-self: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 26px;
+    line-height: 32px;
+    margin-bottom: 24px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+    line-height: 25px;
+    width: 100%;
+  }
+
+  .info {
+    padding: 16px;
+  }
+
+  .info-block {
+    & + & {
+      margin-top: 60px;
+    }
+
+    &__title {
+      font-size: 18px;
+      line-height: 25px;
+    }
+
+    &__text {
+      font-size: 14px;
+      line-height: 19px;
+    }
+  }
+}

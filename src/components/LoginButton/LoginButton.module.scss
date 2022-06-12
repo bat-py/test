@@ -1,0 +1,92 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+
+.wrapper {
+  position: relative;
+  height: 100%;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-right: 32px;
+
+  cursor: pointer;
+}
+
+.icon {
+  margin-right: 8px;
+
+  &--active {
+    & > path {
+      fill: $gold;
+    }
+  }
+}
+
+.menu {
+  position: absolute;
+  z-index: 1000;
+  top: 47.5px;
+  right: -72px;
+
+  width: 250px;
+
+  &__header {
+    padding: 15px 18px 10px;
+  }
+}
+
+.menu-separator {
+  height: 1px;
+  border-top: 1px solid rgba(103, 116, 129, 0.25);
+  width: calc(100% - 36px);
+  margin: 0 auto;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  padding: 14px 18px;
+
+  font-size: 14px;
+  line-height: 20px;
+  color: $dark-gray;
+
+  cursor: pointer;
+
+  &:hover {
+    background-color: $black-element-bg-hover;
+    color: $gold;
+
+    & path {
+      fill: $gold;
+    }
+  }
+
+  &__icon {
+    margin-right: 10px;
+  }
+
+  &--sign-out {
+    &:hover {
+      background-color: inherit;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .icon {
+    margin-right: 0;
+  }
+
+  .body {
+    margin-right: 0;
+  }
+
+  .menu {
+    right: 0;
+    z-index: 15;
+  }
+}

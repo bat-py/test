@@ -1,0 +1,80 @@
+@use "../../ui-kit/scss/variables.scss" as *;
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  position: relative;
+  flex: 1 0 auto;
+}
+
+.title {
+  flex: 0 0 auto;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1 0 auto;
+}
+
+.input {
+  & + & {
+    margin-top: 12px;
+  }
+}
+
+.button {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.link {
+  font-size: 13px;
+  line-height: 16px;
+  align-self: flex-start;
+  margin-top: 12px;
+  margin-bottom: 30px;
+
+  &:hover {
+    color: $green;
+  }
+}
+
+.disclaimer {
+  flex: 0 0 auto;
+  text-align: center;
+  margin-bottom: 24px;
+  width: 400px;
+
+  &__link {
+    text-decoration: underline;
+    &:hover {
+      color: $green;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 30px;
+    line-height: 37px;
+  }
+
+  .link {
+    font-size: 15px;
+    line-height: 18px;
+  }
+
+  .disclaimer {
+    font-size: 13px;
+    line-height: 16px;
+    width: 100%;
+  }
+}

@@ -1,0 +1,15 @@
+@use "./variables.scss" as *;
+
+@mixin scrollbar() {
+  scrollbar-color: $gold #3e4454;
+  scrollbar-width: thin;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: $gold;
+  }
+}

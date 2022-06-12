@@ -1,0 +1,41 @@
+.wrapper {
+  position: relative;
+
+  &--expanded {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+.expander {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 21px 20px 21px 24px;
+  user-select: none;
+
+  cursor: pointer;
+
+  &__title {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+  }
+
+  &__arrow {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+.children {
+  height: 0;
+  visibility: hidden;
+
+  &--expanded {
+    height: auto;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    visibility: visible;
+  }
+}

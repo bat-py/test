@@ -1,0 +1,103 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.wrapper {
+  width: 100%;
+  padding: 21px 24px 27px;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 24px;
+}
+
+.text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: $dark-gray;
+
+  & + & {
+    margin-top: 6px;
+  }
+}
+
+.input-box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+
+  &__input {
+    &-wrapper {
+      flex-grow: 1;
+    }
+
+    height: 48px;
+    background-color: $black-bg;
+  }
+
+  &__button {
+    margin-left: 16px;
+    height: 48px;
+  }
+}
+
+.table {
+  padding: 0;
+
+  &__body {
+    max-height: 760px;
+    overflow-y: scroll;
+    padding-right: 16px;
+    margin-right: -16px;
+  }
+
+  &__text {
+    text-align: center;
+  }
+}
+
+.checkbox-col {
+  display: flex;
+  align-items: center;
+
+  &__checkbox {
+    margin-right: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .input-box {
+    flex-direction: column;
+    width: 100%;
+
+    &__button {
+      margin: 12px 0 40px;
+      width: 100%;
+    }
+
+    &__input {
+      &-wrapper {
+        width: 100%;
+      }
+    }
+  }
+
+  .table {
+    &__text {
+      font-size: 16px;
+      line-height: 22px;
+      max-width: 160px;
+    }
+  }
+
+  .checkbox-col {
+    &__checkbox {
+      margin-left: 8px;
+      min-width: 18px;
+      min-height: 18px;
+    }
+  }
+}

@@ -1,0 +1,425 @@
+main | Главная | Best Trading Platforms For Crypto 
+main2 | | Crypto Leverage Trading App
+lang | ru | en
+trade | Торговля | Trade
+balance | Баланс | Balance
+exchange | Обмен | Exchange
+history | История | History
+news | Новости | Best Automated Crypto Trading News
+news2 | | Top Cryptocurrency Stocks To Buy
+news_description | Interested in trading cryptocurrencies? Want to know more about the best cryptocurrency exchanges? Check about the best-automated trading platform to buy cryptocurrency, top cryptocurrency stocks, and more! | Interested in trading cryptocurrencies? Want to know more about the best cryptocurrency exchanges? Check about the best-automated trading platform to buy cryptocurrency, top cryptocurrency stocks, and more!
+news_keywords | best automated crypto trading platform, top cryptocurrency stocks, best platform to buy cryptocurrency, best crypto exchange, best cryptocurrency trading platform | best automated crypto trading platform, top cryptocurrency stocks, best platform to buy cryptocurrency, best crypto exchange, best cryptocurrency trading platform
+news_h3 | Here's more information on how to purchase stocks using our platform. | Here's more information on how to purchase stocks using our platform.
+news_h3_desc | As a top cryptocurrency exchange and the top cryptocurrency stock, we provide the best-automated crypto trading platform and the best-automated platform to purchase cryptocurrency. Our platform allows you to trade and invest in cryptocurrencies easily. Find out how Crossceed can help you trade like a pro today! | As a top cryptocurrency exchange and the top cryptocurrency stock, we provide the best-automated crypto trading platform and the best-automated platform to purchase cryptocurrency. Our platform allows you to trade and invest in cryptocurrencies easily. Find out how Crossceed can help you trade like a pro today!
+contact | Контакты | Contact
+profile | Профиль | Profile
+logout | Выйти | Logout
+login | Log In | Log In
+register | Регистрация | Register
+demo_account | Демо счёт | Demo account
+start_now | Начни сейчас | Create Account
+email_check_code | Введите код проверки с электронной почты | Enter your verification code from Email
+condition_age | Подтвердите условия и ваш возраст | Confirm conditions and your age
+wrong_sum | Неправильная сумма | Incorrect sum
+wrong_balance | Неправильный баланс | Incorrect balance
+all_field | Заполните все поля | Fill all fields
+about_us | О нас | About Us
+products | Продукты | Products
+service | Обслуживание | Service
+support | Поддержка 24/7 | Support 24/7
+mob_support | Поддержка | Support
+submit_request | Отправить запрос | Submit a request
+learn | Изучить | Learn
+community | Сообщество | Community
+CROSSCEED_FINANCE | Покупайте и продавайте криптовалюту выгодно и безопасно | Buy & Sell crypto profitably and safely
+CROSSCEED_FINANCE_TEXT | Многопрофильная криптовалютная площадка с ручным и автоматическим функционалом работы одновременно на нескольких криптовалютных биржах в режиме реального времени.умная система мониторинга предотвращает куплю/продажу в убыток. Наш клиент-инвестор всегда в прибыли как и компания. | What are the best crypto trading apps and platforms? Visit Crossceed! For buying cryptocurrencies, this is the best and most professional crypto leverage trading platform. Here, we help you stay on top of the market and make crypto trading easier. Join now!
+CROSSCEED_FINANCE_TEXT_INDEX_KEYWORDS | best trading platforms for crypto, best platform for buying cryptocurrency, best apps to trade cryptocurrency, crypto buying platforms, best crypto leverage trading platform, professional crypto trading platform | best trading platforms for crypto, best platform for buying cryptocurrency, best apps to trade cryptocurrency, crypto buying platforms, best crypto leverage trading platform, professional crypto trading platform
+step_1 | 1 шаг | step 1
+step_2 | 2 шаг | step 2
+step_3 | 3 шаг | step 3
+step_4 | 4 шаг | step 4
+step_5 | 5 шаг | step 5
+step_1_text | Клиент передает на управление<br /> свои финансы агенту | Customer transfers management <br /> finances to agent
+step_2_text | Агент выводит наличные<br /> и отсылает агенту в другой стране. | Agent withdraws cash <br /> and sends it to the agent in another country.
+step_3_text | Второй агент, где курс ниже,<br /> покупает для клиента криптовалюту,<br /> и передает все компании. | The second agent whose the rate is lower, <br /> buys cryptocurrency for the client, <br /> and places all the companies in other hands
+step_4_text | Основная сумма и прибыль<br /> переводится на счет клиента. | Principal amount and profit <br /> are transferred to the client’s account.
+step_5_text | Завершение<br /> процесса сделки. | Completion of the <br /> transaction process.
+mobile | Мобильный | Mobile
+API | API | API
+sum | Сумма | Sum
+manual_payout_wait | Ваша заявка на выплату отправлена на ручную модерацию. В случае успешной выплаты, в истории баланса появится запись о выводе средств. | Your request for payment has been sent for manual moderation. In case of successful payment, a record about the withdrawal of funds will appear in the balance history.
+API_Documentation | Официальная документация API | Official NAME API Documentation
+registration_closed | Регистрация закрыта | Registration is closed
+for_free | бесплатно | for free demo
+your_email | Введите Ваш Email адресс | Enter your Email address
+your_name | Введите ваше имя | Enter your name
+sing_name | Имя, используемое для входа | Name to use when sing in
+create_password | Создайте пароль | Create a password
+create_password_text | Пароль не должен быть менее 6 символов | Passwords must be at least 6 characters
+confirm_password | Подтвердите пароль | Confirm password
+referral_ID | ID реферала (необязательно) | Referral ID (Optional)
+terms | Я принимаю Условия использования | I accept Terms and Conditions
+over_18 | Мне больше 18 лет | I am over 18 years old
+have_account | Уже есть аккаунт? | Already have account?
+sign_in | Войти | Sign in
+wrong_password | Неправильный пароль | Wrong password
+password_match | Пароли не совпадают | Passwords do not match
+enter_email | Введите email | Enter email
+email | Email | Email
+user_exist | Пользователь уже существует | User already exists
+registration_completed | Регистрация завершена. Теперь Вы можете войти. | Registration completed. Now you can sign-in.
+registration_completed_code | Регистрация завершена. Теперь Вы можете войти. | Registration completed. Now you can sign-in.
+registration_moderation | Регистрация завершена. Вы можете войти после модерации. | Registration completed. You can sign-in after moderation.
+registration_instruction | Для завершения регистрации следуйте инструкциям: инструкции. | To complete registration follow instructions: instructions.
+your_password | Ваш Пароль | Your Password
+email_code | Email Код | Email Code
+dont_have_account | У Вас нет аккаунта? | Don't have an account?
+sign_up | Войти | Sign Up
+wrong_login | Не верный логин или пароль | Wrong login or password
+account_blocked | Аккаунт заблокирован | Account blocked
+account_moderated | Аккаунт не модерирован | Account not moderated
+account_deleted | Аккаунт удален администратором | Account deleted by administrator
+wrong_code | Не верный код авторизации | Invalid authorization code
+wrong_code_2 | Не верный код | Invalid code
+your_code | Ваш код авторизации | Your authorization code
+contact_center | Контактный центр | Contact Center
+create_help | Мы созданы, чтобы помогать | We're create to help
+customer_service | Служба поддержки CROSSCEED работает круглосуточно и без выходных, чтобы помочь вам с вашими потребностями <br />. | NAME customer service is online 24/7 to help with your<br />needs.
+ask_question | Задать вопрос | Ask question
+send_request | Отправить запрос | Send Request
+topic_1 | Topic 1 | Topic 1
+topic_2 | Topic 2 | Topic 2
+topic_3 | Topic 3 | Topic 3
+your_question | Ваш вопрос | Your question
+FAQ | FAQ | FAQ
+our_address | Ваш Адрес | Our Address
+address_1 | 7298 East Charles Street | 7298 East Charles Street
+address_2 | New Lenox, IL 60451 | New Lenox, IL 60451
+contact_info | Контакты | Contact Info
+phone_1 | (896) 931-6550 | (896) 931-6550
+phone_2 | (965) 446-9687 | (965) 446-9687
+follow_us | Подпишитесь | Follow Us
+sended | Отправлено | Sended
+choose_currency_sell | Выберите валюту для продажи | Choose currency to sell
+choose_currency_buy | Выберите валюту для покупки | Choose currency to buy
+you_get | Вы получите | You'll get
+enough_balance | Недостаточный баланс | Not enough balance
+exchange_completed | Обмен завершен | Exchange completed
+wallet_history | История платежей | Wallet History
+date | Дата | Date
+operation | Операция | Operation
+information | Информация | Information
+payment_manual | Все платежи производятся раз в 24 часа по запросу и в ручном режиме. | All payments are made once every 24 hours upon request and in manual mode
+status | Состояние | Status
+complete | Выполненно | Complete
+pending | В ожидании | Pending
+declined | Отклонено | Declined
+wallet | Кошелек | Wallet
+read_more | Читать больше | Read more
+account_verification | Верификация учетной записи | Account Verification
+first_name | Имя | First Name
+second_name | Фамилия | Second Name
+patronymic | Отчество | Patronymic
+address | Адрес | Address
+password | Пароль | Password
+OK | OK | OK
+document_1 | Загрузить 1-ую страницу документа | Load  page 1 of document
+document_2 | Загрузить 2-ую страницу документа  | Load page 2 of document
+send | Отправить | Send
+vip_request | Подать заявку на VIP | Apply for VIP
+have_vip_request | У вас уже есть не рассмотренные заявки | You already have pending applications
+wrong_format | Неверный формат файла | Wrong file format
+first_file | Загрузить первый файл | Upload first file
+uploaded | Загруженно | Uploaded
+bad_password | Новый пароль не удовлетворяет требованиям | The new password does not meet the requirements
+user | Пользователь | User
+technical_issue | <p>Technical issue page content</p> | <p>Technical issue page content</p>
+subject | Тема | Subject
+close_ticket | Закрыть Тикет | Close ticket
+create | Создать | Create
+comment | Комментарий | Comment
+add | Добавить | Add
+open | Открыто | open
+closed | Закрыто | closed
+your_tickets | Ваши Квитанции | Your Tickets
+question | Вопрос | Question
+error | Ошибка | Error
+another | Другое | Another
+text | Текст | Text
+INFO | Инфо | INFO
+refresh | Обновить | Refresh
+replenish | Пополнение | Replenish
+payout | Выплата | Payout
+replenish_balance | Пополнить баланс | Replenish Balance
+choose_wallet | Выберите свой кошелек | Choose your wallet
+quantity | Введите количество | Enter quantity
+available | Доступно | Available
+minimal | Минимум | Minimal
+commision | Комиссия | Commission
+commision_lessthen | Если выводить меньше, чем | If withdrawing less then
+commision_morethen | Если выводить больше, чем | If withdrawing more then
+commision_feenetwork | комиссия платёжной системы | fee network 
+commision_onlyfeenetwork | только комиссия платёжной системы | fee only network fees
+XLM_address | Ваш XLM-адрес | Your XLM-address
+memo_ID | Memo ID (необязательно) | Memo ID (optional)
+create_request | Создать запрос | Create request
+check_code | Введите код проверки с электронной почты | Enter your verification code from Email
+trade_process | Процесс Торговли | Trade Process
+start_robot | Старт Робота | Start Robot
+trade_dont | Торговля не работает | Trade does not work
+email_code_2 | Для подтверждения введите код из письма | To confirm, enter the code from an email
+volume_24 | Объем торгов за 24 часа | 24 hour trading volume
+order_amount | Введите сумму заказа | Enter the order amount
+trade_exchange | Trade exchange | Trade exchange
+apply | Применить | Apply
+bid_USD | Bid USD | Bid USD
+ask_USD | Ask USD | Ask USD
+chg_24h | Chg 24h | Chg 24h
+graphs | Графики | Graphs
+to_processing | Перейти к обработке заказа | Go to order processing
+days | Дней | Days
+number_days | Количество рабочих дней | Number of working days
+start | Старт | Start
+stop | Стоп | Stop
+arbitrage | Арбитраж | Arbitrage
+server_time | Серверное время | Server time
+CALCULATION | РАСЧЕТ АРБИТРАЖНОЙ СИСТЕМЫ | CALCULATION OF THE ARBITRATION SYSTEM
+sale | Продажа | Sale
+volume | Объем | Volume
+price | Цена | Price
+market_exchange | Рынок (обмен) | Market (exchange)
+beneficiary | Бенефициар | Beneficiary
+commission_bid | Комиссия/предложение | Commission/bid
+amount | Количество | Amount
+withdraw | Вывод / обмен (fiat) | Withdraw/exchange (fiat)
+receipt | Получение | Receipt
+issuing_bank | Банк-Эмитент | Issuing Bank
+requirements | Не выполнены условия для завершения операции. | Not completed conditions for operations
+transit_paysafe | Транзит Adyen | Transit Adyen
+purchase | Покупка | Purchase
+commission_withdraw | Комиссия/Вывод | Commission/Withdrawal
+delta | Дельта | Delta
+distribution | Распределение | Distribution
+counterparty_sale | Контрагент/продажа | Counterparty/sale
+counterparty_purchase | Контрагент/покупка | Counterparty/purchase
+COMPANY | КОМПАНИЯ | COMPANY
+delta_client | Дельта/Клиент | Delta/Client
+partner | Партнер | Partner
+total_transaction | Общая транзакция | Total transaction
+transaction_result | Возврат результата транзакции (включая общую прибыль) | Return transaction result (including total profit)
+confirm | Подтвердите операцию обмена | Confirm the exchange operation
+proliminary | Предварительный | Preliminary
+online_orders | Онлайн заказы | Online orders
+no_premilinary | Нет предварительных заказов | No preliminary orders
+current_status | Текущий статус | Current status
+transaction_hash | Хэш транзакции | Transaction hash
+commission_withdrawal | Комиссия/снятие USD | Commission/USD withdrawal
+dispatch_volume | Объем отправки | Dispatch volume
+comission_operator | Оператор комиссии | Comission Operator
+no_request | У вас нет заявок на торговлю | No trade requests
+detail | Подробнее | Detail
+new | НОВЫЙ | NEW
+accept | ПРИНЯТ | ACCEPT
+decline | ОТКЛОНЕН | DECLINE
+fail | СБОЙ | FAIL
+back | Назад | Back
+stage_1 | Этап сделки 1 | Stage 1
+stage_2 | Этап сделки 2 | Stage2
+stage_3 | Этап сделки 3 | Stage 3
+stage_4 | Этап сделки 4 | Stage 4
+stage_5 | Этап сделки 5 | Stage 5
+stage_6 | Этап сделки 6 | Stage 6
+ticket_created | Заявка Созданна | Ticket Created
+ticket_list | Список Заявок | Ticket List
+comment_created | Комментарий добавлен | comment added
+ticket_closed | Тикет закрыт | Ticket closed
+ticket | Заявка | Ticket
+referral_list | Список рефераллов | Referral list
+payment_history | История выплат | Payment history
+request_sended | Заявка подана | request sent
+trade_limit | Торговый лимит достигнут | Trade limit reached
+no_profit | Нет прибыли | No profit
+trade_sended | Отправлен торговый запрос | Trade request sended
+minimum_refill | Ошибка минимального предела пополнения | Minimum value refill error
+refill_sended | Запрос на пополнение отправлен | Refill request sent
+request_done | Заявка уже обработанна | Request processed
+request_confirmed | Заявка подтвеждена | Request confirmed
+payment_destination | Введите назначение оплаты | Enter payment destination
+autotrade_isset | У вас есть не завершенный автотрейд. | You have incomplete autotrade
+minimum_error | Ошибка минимального лимита выплат | Minimum payout limit error
+maximum_error | Ошибка максимального лимита выплат | Maximum payout limit error
+payout_request | Заявка на вывод средств | Payout request
+your_code_2 | Ваш код подтверждения | your verification code
+not_found | Не найден | not found
+no_autotrade | Нет запущеных автотрейдов | No autotrades
+autotrade_completed | Авторобот завершил работу. | Autobot completed work
+your_profit | Ваша прибыль | Your profit
+autotrade_already | Автотрейд уже запущен | Autotrade stated
+autotrade | Автотрейд | Autotrade
+autotrade_start | Авторобот запущен | Autobot started
+thank_you | Спасибо за то, что вы с нами! | Thanks for letting us serve you!
+copy | Спасибо за то что вы с нами..      CROSSCEED.COM   Inc. Все права защищены. | Thanks for letting us serve you..      CROSSCEED.COM   Inc. All rights reserved.
+trade_executed | Ордер успешно завершен . | Order completed successfully.
+wallet_amount | На ваш кошелек начислено: | Your wallet accrued amount of:
+detailed_history | Больше информации вы можете посмотреть на вашем аккаунте по вкладке меню history | You can see more information on your account in the history
+trade_complete | Торговля Завершена | Trade Completed
+min_autotrade | Срок автотрейда меньше минимального | Auto trading time is less the minimum
+login_confirm | Подтвердите вход на crossceed.com | Confirm login tocrossceed.com
+login_confirm_text | На Ваш email было отправленно письмо с кодом для подтверждения входа. | An email was sent to your email adress with a confirmation code.
+dear | Дорогой | Dear
+security_code | код безопасности | security code
+qtyorder | Количество ордеров | Order number
+your_balance | Ваш баланс | Your balance
+order_cancelled | Ордер отменен . Причина : Изменение курса на бирже | The order is canceled. Reason: Exchange rate change
+account_verificated | Ваш акаунт верифицирован. Все ограничения сняты | Your account is verified. All restrictions lifted
+payment_order | Ордер на вывод . | Withdrawal order.
+reg_code | Вы зарегистрировались на платформе crossceed.com. Введите код подтверждения регистрации<br/>Код подтвержения регистрации :  | You have registered on the crossceed.com. Enter confirmation code.<br/>Confirmation code:
+reg2 | Спасибо. Регистрация завершена. Аккаунт не верифицирован. Верифицируйте аккаунт для снятия ограничений  | Thanks. Registration completed. Account is not verified. Verify your account to lift restrictions
+reg31 | Ваш аккаунт активирован, но не верифицирован вы можете создавать ордер максимум на | your account is activated, but not verified, you can create an order with a maximum of
+reg32 | верифицируйте свой аккаунт для снятия ограничений | verify your account to lift restrictions
+agree_with | Я прочитал и согласен с | I have read and agree to the
+user_agreement | пользовательским соглашением | user agreement
+and | и | and
+privacy | политикой конфидициальности | privacy policy
+newsletter | получать новостную рассылку | get newsletter
+registration_email | Код подтверждения выслан на email | We have sent confirmation code to the email
+system_agent | System Agent | System Agent
+stockbroker | Биржевые Агенты | Stockbrokers
+name | Имя | Name
+country | Страна | Country
+city | Город | City
+payment_system | Платежные системы | Payment systems
+bank | Банк | Bank
+company | Компания | Company
+vacancy_list | Список вакансий | Vacancy list
+vacancy_description | Описание вакансии | Vacancy description
+tech_division | Технический отдел | Technical department
+agent_info | Информация про биржевых агентов | Stockbrokers info
+agent_info_h3 | Here is a list of the best cryptocurrency trading brokers. We understand that you need an online broker who is reliable and works quickly. We provide a comprehensive list and information about the top online and certified stock brokers. We've got great information about the top and most reputable stocks brokers! | Here is a list of the best cryptocurrency trading brokers. We understand that you need an online broker who is reliable and works quickly. We provide a comprehensive list and information about the top online and certified stock brokers. We've got great information about the top and most reputable stocks brokers!
+ads | Реклама и продвижение | Advertising and promotion
+VIP_accounts | VIP accounts  | VIP accounts
+time | Время | Time
+qty | Количество | Quantity
+adelta | Арбитражная дельта | Delta Arbitrage
+profitability | Доходность | Profitability
+result | Итог | Result
+sell | Продажа | Sale
+buy | Покупка | Purchase
+last_operation | Последние операции | Last operations
+loading_start | Начало загрузки | Downloading
+structure | Структура | Structure
+autorobot | Авторобот | Autobot
+global_merchant | мерчант для глобальных платежей | Global merchant
+cancel | ОТМЕНИТЬ | Cancel
+autotrade_block | Заблокировано на время автотрейда. | Locked for autotrade period.
+request_rejected | Заявка отклонена | Rejected request
+local_time | Местное время | Local times
+link | ссылка | link
+referal_program | Реферальная программа | Referral program
+top_bid | Top bid | Top bid
+lowest_ask | Lowest ask | Lowest ask
+agent_list | Agent List | Agent List
+deposit | Deposit | Deposit
+withdrawal | Withdrawal | Withdrawal
+balance_refill | Баланс пополнен на | Refilled balance of
+select_tradee | Выберите Биржу | Select the market
+trade_active | У вас есть активные торговые операции | You have current trade operations
+vacancy_text | We are looking for qualified and smart people to join our team. We have already been working in a high-quality partnership atmosphere and there is a need for new staff all over the world. Therefore, our network of agents and operations managers will grow on the cryptocurrency market and as far as our business expansion. We will be glad to see you in our team! | We are looking for qualified and smart people to join our team. We have already been working in a high-quality partnership atmosphere and there is a need for new staff all over the world. Therefore, our network of agents and operations managers will grow on the cryptocurrency market and as far as our business expansion. We will be glad to see you in our team!
+commission_agent | Комиссия агента | Agent comission
+operation_qty | Количество сделок | Quantity of operations
+operation_qty_left | Осталось сделок | Operations left
+min_autotrade_2 | Не верное количество операций | Invalid quantity of operations
+time_place | Местное время | Local times
+merchant | Мерчант | Merchant
+isset_balance_exchange | Доступный баланс для обмена | Available excange balance
+exchange_not_enouth_money | Недостаточно средств на обменном балансе | Not enough money on exchange balance
+exchange_mist | Ошибка определения текущего обменного курса. Попробуйте сделать поппытку немного позже. | Сurrent exchange rate error. Try again later.
+enter_amount_for_trade | Вы не ввели сумму | You didn't enter the amount
+min_amount_for_trade | Введите сумму больше минимальной | Enter the amount more the minimum
+history_payment_o1 | Операция обмена криптовалют | Cryptocurrency exchange operation
+history_payment_o2 | Пополнение депозита | Replenishment deposit
+history_payment_o4 | Вывод с депозита |Withdrawal of deposit
+history_payment_o5 | Операция трэйда | Trade operation
+history_payment_o8 | Ошибка по операции треда, возврат средств. | Trade operation error, refund.
+history_payment_o10 | Списание по автороботу. | Autobot write-off.
+history_payment_o7 | Пополнение после работы авторобота. | Recharge after autobot work
+history_payment_o22 | Возврат средст после остановки авторобота. | Refund after stop autobot.
+history_payment_o11 | Реферальное вознаграждение. | Referral fee
+history_payment_o15 | Поступление после операции. | Receipt of funds after the operation.
+history_payment_o23 | Возврат срдест при сбое работы авторобота. | Refund if the autobot fails.
+how_work_on_platform | Как работать на платформе | How it works
+cookie_agreement | Мы используем файлы cookies. Нажмите здесь, чтобы подтвердить свое согласие на использование cookies. | We use cookies. Click here to confirm using cookies.
+cookie_agreement_2 | Ознакомьтесь с нашей политикой конфиденциальности. | See our privacy policy.
+agree | Согласен | Agree
+balance_send | Отправьте | Send
+balance_to_this_address | на этот адрес | to this address
+balance_will_update_automatically | на этот адрес | Balance will be updated automatically
+history_payment_o24 | Ожидание поступления на депозит |  Waiting for a deposit
+expect_intro_money | Ожидание поступления | Pending receipt
+summ_added_to_balance | Баланс успешно пополнен! | The balance has been successfully recharged
+question_created | Вопрос отправлен | The question has been sent
+question_receive | Ваш запрос получен и зарегистрирован под номером | Your request has been received and registered under the number
+question_we_will_answer | Мы ответим Вам в ближайшее время. | We will answer you as soon as possible.
+question_question | Вопрос | Question
+question_support_ans | Ответ по запросу | Answer on request
+question_support_ans_2 | Наш ответ по Вашему запросу | Our answer on your request
+question_support_your_question_from | Ваш вопрос от | Your question of
+else_agent | Ещё агенты | More agents
+pending_sucs | подтверждение | Confirmation
+request_confirmed_link | Ссылка подтверждения. | Confirmation link.
+limit_payout_at_day | Вы уже достигли лимита по количеству выводов в день | You have already reached your daily withdrawal limit
+limit_col_days | Выводить средства можно не раньше чем через {x} дней после пополнения! | You can withdraw funds at least {x} days after depositing!!
+text_develop_app | Приложение находится в разработке. Планируемая дата выхода: 15.12.2020 г. | The application is under development. Planned release date: 12/15/2020
+history_payment_o30 | Ожидание завершения трэйда | Pending trade
+history_payment_o31 | Ожидание завершения трэйда | Pending trade
+new_password | Новый пароль | New password
+restore | Восстановить | Restore
+restore_password | Забыли пароль? | Forgot your password?
+restore_pswd | Восстановить пароль | Restore Password
+remember_the_password | Вспомнили пароль? | Remember the password?
+wrong_email | Такой email не существует | This email does not exist
+change_pswd_ok | Ваш пароль изменён| Your password has been changed
+restore_code | Вы запросили восстановления пароля на платформе crossceed.com. Введите код подтверждения восстановления Код восстановления пароля регистрации : | You requested a password recovery at crossceed.com. Enter the recovery confirmation code.<br/><br/>Registration password recovery code :
+about_menu | О нас | About
+partners | Партнёрам | Best Crypto Affiliate Programs
+partners2 | | Cryptocurrency Affiliate Program
+partners_description | Interested in joining the best crypto affiliate programs? Look no further! Crossceed is an all-inclusive platform for crypto exchange. Here you can find all the information about the cryptocurrency affiliate program. Visit now! | Interested in joining the best crypto affiliate programs? Look no further! Crossceed is an all-inclusive platform for crypto exchange. Here you can find all the information about the cryptocurrency affiliate program. Visit now!
+partners_keywords | crypto affiliate program, best crypto affiliate programs, affiliate program cryptocurrency, cryptocurrency affiliate program, crypto exchange affiliate programs | crypto affiliate program, best crypto affiliate programs, affiliate program cryptocurrency, cryptocurrency affiliate program, crypto exchange affiliate programs
+VIP | VIP | VIP
+VIP_modal_title | Выгодные VIP партнерские программы | VIP affiliate programs
+VIP_modal_content | Особые VIP клиенты по вашей партнёрской ссылке обсуждаются лично с вами. | Special VIP clients of your affiliate program are discussed personally with you.
+copy_right | Все права защищены. Crossceed является торговой маркой компании Crossceed Finance LTD | All rights reserved. Crossceed is a trademark of Crossceed Finance LTD
+suppot_mail | Если у вас возникли, какие-то вопросы по работе сайта, тогда обратитесь в нашу техническую поддержку | If you have any questions or just problems, then contact our technical support
+ip_mail | IP адрес | IP address
+vip_page_msg1 | VIP - клиентам | To VIP clients
+vip_page_msg2 | VIP аккаунт - это кабинет где клиенту предоставляется увеличенное количество ордеров до 7 в день и более короткие промежутки между сделками, а так же увеличенный доход от сделки. | The VIP account is a profile with certain privileges for a client such as the maximum order number increased up to 7 a day, shorter breaks between deals and increased profits from the deals.
+vip_page_msg3 | Условия получения VIP аккаунта: | To be a VIP client:
+vip_page_msg4 | 1. Верификация пользoвателя | 1. You should verify your account.
+vip_page_msg5 | 2. Минимальный остаток на счёте для совершения сделок до 7 в сутки составляет 3 BTC или 85 ETH  на других криптовалютах это эквивалент $30 000 | 2. You should have at least either 3 BTC or 85 ETH, or the sum equivalent to $30 000 on your account to get the maximum order number increased.
+vip_page_msg6 | 3. У VIP клиентов не может быть партнёров | 3. You should not have partners on the platform.
+vip_page_msg7 | 4. При необходимости необходимо отправить дополнительный документ для верификации и исключения поддельных данных | 4. To verify your profile and exclude the possibility of data cheating you should send additional identification documents if required.
+vip_page_msg8 | Отправляя запрос Вы соглашаетесь с выше перечисленными условиями и Пользовательским соглашением. | By sending us a request for the VIP status you accept the abovementioned conditions and our Terms and Conditions.
+view_more_markets | Посмотреть больше | View more markets
+how-to-buy-cryptocurrency | Как купить криптовалюту | How to buy cryptocurrency
+cryptocurrency-wallets | Криптовалютные кошельки| Cryptocurrency wallets
+beginners-guide | Руководство для начинающих | Beginner's Guide
+learn-more-about-the-crossceed-service | Узнать больше о платформе Crossceed | Learn more about the Crossceed service
+beginners-more2 | Crypto trading apps or platforms provide many opportunities to learn about trading while simultaneously making money. Here you will learn how to use the best and most professional leveraged trading platform for crypto! | Crypto trading apps or platforms provide many opportunities to learn about trading while simultaneously making money. Here you will learn how to use the best and most professional leveraged trading platform for crypto!
+address_email | Адрес электронной почты | E-mail address
+link_not_valid | Ссылка недействительна | The link is not valid
+account_verified | Ваш аккаунт успешно подтвержден | Your account has been successfully verified
+start_trading | Начать торговлю | Start trading
+reg_not_verif | Ваш аккаунт зарегистрирован, но не подтвержден | Your account is registered but not verified
+link_confirm | На ваш адрес электронной почты было отправлено письмо со ссылкой для подтверждения вашей учетной записи | An email was sent to your email address with a link to verify your account
+warn_spam | Внимание! Если письмо не пришло, проверьте папку со СПАМом | Attention! If the email has not arrived, check your SPAM folder
+enter_code | Введите код, отправленный по электронной почте | Enter the code sent by email
+please_confrirm | Пожалуйста, подтвердите свою учетную запись по следующей ссылке | Please verify your account at the following link
+read_more | Читать полностью | Read More
+group_about | О нас | About
+group_terms | Соглашения | Terms
+group_security | Безопасность | Security
+group_help | Помощь | Help
+title_agentlist | | Top Cryptocurrency Trading Brokers 
+title_agentlist2 | | List Of Certified Stock Brokers
+description_agentlist | Here you can find information on cryptocurrency trading brokers, online stock brokers, and a list of top online brokers. You can find information about a certified stock broker here. Visit our website now! | Here you can find information on cryptocurrency trading brokers, online stock brokers, and a list of top online brokers. You can find information about a certified stock broker here. Visit our website now!
+keywords_agentlist | cryptocurrency trading brokers, top stock brokers, list of stock brokers, top online stock brokers, certified stock broker | cryptocurrency trading brokers, top stock brokers, list of stock brokers, top online stock brokers, certified stock broker

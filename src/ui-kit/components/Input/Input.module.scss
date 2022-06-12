@@ -1,0 +1,51 @@
+@use "../../scss/variables.scss" as *;
+
+.body {
+  position: relative;
+  width: 303px;
+}
+
+.label {
+  position: absolute;
+  pointer-events: none;
+  user-select: none;
+  cursor: text;
+  top: 17px;
+  left: 12px;
+
+  font-size: 16px;
+  line-height: 19px;
+  color: $dark-gray;
+
+  transition: all ease-out 0.05s;
+}
+
+.input {
+  background-color: $black-element-bg;
+  border-radius: 8px;
+  width: 100%;
+  height: 50px;
+  font-size: 16px;
+  line-height: 18px;
+  padding-left: 12px;
+
+  &::placeholder {
+    color: $dark-gray;
+    font-weight: 500;
+  }
+
+  &--dynamic-label {
+    &:focus,
+    &:not(:placeholder-shown) {
+      padding-top: 17px;
+
+      & ~ .label {
+        top: 2px;
+
+        font-size: 12px;
+        line-height: 15px;
+        color: #fff;
+      }
+    }
+  }
+}

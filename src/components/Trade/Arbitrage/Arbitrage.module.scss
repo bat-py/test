@@ -1,0 +1,95 @@
+@use "../../../ui-kit/scss/variables.scss" as *;
+
+.wrapper {
+  padding: 24px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(103, 116, 129, 0.25);
+  padding-bottom: 20px;
+
+  &__title {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 600;
+  }
+
+  &__time {
+    color: $dark-gray;
+  }
+}
+
+.calculation {
+  padding-top: 24px;
+
+  &__title {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 40px;
+  }
+}
+
+.sale-purchase {
+  display: flex;
+  width: 100%;
+  margin-bottom: 40px;
+
+  & > .calculation-section {
+    width: 50%;
+  }
+}
+
+.calculation-section {
+  &__title {
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 600;
+    color: $dark-gray;
+    margin-bottom: 20px;
+  }
+
+  &__item {
+    & + & {
+      margin-top: 10px;
+    }
+  }
+
+  &:nth-child(2) {
+    text-align: right;
+  }
+}
+
+.button {
+  margin-top: 24px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .calculation {
+    &__title {
+      font-size: 15px;
+      line-height: 18px;
+    }
+  }
+
+  .sale-purchase {
+    flex-direction: column;
+
+    & > .calculation-section {
+      width: 100%;
+    }
+  }
+
+  .calculation-section {
+    & + & {
+      margin-top: 36px;
+    }
+
+    &:nth-child(2) {
+      text-align: left;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  max-width: 100%;
+  overflow-x: auto;
+  margin-top: 100px;
+  margin-bottom: -60px;
+  height: 520px;
+}
+
+@media (max-width: 768px) {
+  .wrapper {
+    margin-top: 40px;
+    margin-bottom: -20px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    height: 440px;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.menu {
+  display: flex;
+}
+
+.button {
+  & + & {
+    margin-left: 8px;
+  }
+}

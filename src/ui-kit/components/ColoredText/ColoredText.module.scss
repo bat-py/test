@@ -1,0 +1,25 @@
+@use "../../scss/variables.scss" as *;
+
+.gold {
+  color: $gold;
+}
+
+.green {
+  color: $green;
+}
+
+.red {
+  color: $red;
+}
+
+.dark-green {
+  color: $green-text;
+}
+
+.dark-gray {
+  color: $dark-gray;
+}
+
+.white {
+  color: #fff;
+}

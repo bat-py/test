@@ -1,0 +1,12 @@
+{
+  "common": {
+    "sign-up": "Регистрация",
+    "sign-in": "Вход",
+    "header.sign-in": "Войти",
+    "nav.trade": "Торговля",
+    "nav.balance": "Баланс",
+    "nav.exchange": "Обмен",
+    "nav.history": "История",
+    "nav.support": "Поддержка"
+  }
+}
